@@ -1,0 +1,1072 @@
+[
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.",
+  "l4": "Which of the following pathogens is the most likely cause of this patient’s condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.",
+  "l4": "Which of the following is the most likely infectious agent?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.",
+  "l4": "This patient most likely acquired the infectious agent via which of the following modes of transmission?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.",
+  "l4": "This patient most likely has a defect in which of the following?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.",
+  "l4": "Which of the following is the most likely cause/mechanism of this effect?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "Which of the following is the most likely underlying cause of this patient’s condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "Which of the following is the most likely explanation for this patient’s condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "Which of the following cell types most likely played a primary role in the development of this lesion?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "Which of the following immune system mediators plays a critical role in the pathogenesis of this patient’s current condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "This patient most likely has a deficiency in which of the following enzymes?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "Which of the following cytokines is the most likely cause of this condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.",
+  "l4": "Which of the following processes is most likely impaired in this patient?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.",
+  "l4": "The most likely cause of the findings in this patient is damage to which of the following structures?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.",
+  "l4": "Which of the following structures is at greatest risk for damage during this procedure?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.",
+  "l4": "Which of the following nerves is most likely carrying the sensation for this patient’s pain?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.",
+  "l4": "The most likely cause of these findings is dysfunction of which of the following structures?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.",
+  "l4": "Which of the following developmental abnormalities is the most likely cause of the findings in this patient?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.",
+  "l4": "Which of the following is the most likely mechanism of the beneficial effect of this drug?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.",
+  "l4": "Which of the following is the most appropriate management? (response options would be drug classes or mechanisms of action)"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.",
+  "l4": "Which of the following is the most likely mechanism of action of the therapeutic effect of this drug?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Causes and Mechanisms",
+  "l3": "Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.",
+  "l4": "The most appropriate medication for this patient will have which of the following mechanisms of action?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination",
+  "l3": "Knows signs/symptoms of selected disorders. Response options are signs and symptoms. The item asks which signs and symptoms are characteristic of the patient’s condition. Typically used when patient presents with the condition.",
+  "l4": "Which of the following signs/symptoms is most consistent with the underlying diagnosis in this patient?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination",
+  "l3": "Knows individual’s risk factors for development of condition. Given current symptoms in presented history, identifies pertinent factor in the history. Typically used when patient presents with the condition.",
+  "l4": "Which of the following factors in this patient’s history most increased the risk for developing this condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination",
+  "l3": "Given a specific problem, knows what to ask to obtain pertinent additional history. The response options should not be referenced in the vignette and should not include details that would be obtained during initial history-taking. If asking about information that was already obtained and is mentioned in the vignette, use the following lead-in.",
+  "l4": "It is most appropriate to obtain specific additional history regarding which of the following?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination",
+  "l3": "Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding. The options are findings or directed physical examination techniques.",
+  "l4": "The remainder of the physical examination is most likely to show which of the following? (ensure all options are portions of the physical examination that would not yet have occurred in the patient scenario)"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination",
+  "l3": "Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding. The options are findings or directed physical examination techniques.",
+  "l4": "It is most appropriate to direct the physical examination toward which of the following? (sample options: “Auscultation of the lungs,” “Palpation of the abdomen,” “Rotation of hip joints”)"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination",
+  "l3": "Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding. The options are findings or directed physical examination techniques.",
+  "l4": "Which of the following signs or symptoms is most indicative of the need for further studies?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following is the most appropriate diagnostic study at this time?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following is the most appropriate initial diagnostic study?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following is the most appropriate next step in evaluation?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following studies is most likely to establish a diagnosis?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following laboratory studies is most likely to confirm the diagnosis?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following studies is most appropriate to order for follow-up?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following studies is most appropriate to obtain periodically to monitor the patient’s long-term care?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Interprets laboratory or other study findings. Response options are interpretations of the laboratory/diagnostic data.",
+  "l4": "Which of the following is the most likely explanation for these laboratory findings?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Interprets laboratory or other study findings. Response options are interpretations of the laboratory/diagnostic data.",
+  "l4": "Based on these findings, this patient’s condition is most likely attributable to which of the following?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.",
+  "l4": "Results of which of the following laboratory studies are most likely to be abnormal in this patient?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.",
+  "l4": "Measurement of serum electrolyte concentrations is most likely to show which of the following?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.",
+  "l4": "An x-ray of the _________  is most likely to show which of the following?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.",
+  "l4": "Arterial blood gas analysis is most likely to show which of the following sets of findings?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies",
+  "l3": "Selects most appropriate laboratory or diagnostic study after change in patient status.",
+  "l4": "Prior to changing this patient’s therapy, which of the following is the most appropriate diagnostic study?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Formulating the Diagnosis",
+  "l3": "Selects the most likely diagnosis.",
+  "l4": "Which of the following is the most likely diagnosis?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Formulating the Diagnosis",
+  "l3": "Selects the most likely diagnosis.",
+  "l4": "Which of the following is the most likely working diagnosis?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Formulating the Diagnosis",
+  "l3": "Selects the most likely diagnosis.",
+  "l4": "Which of the following best explains these findings? (options would be diagnoses; correct answer could be “Normal finding(s)”)"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Formulating the Diagnosis",
+  "l3": "Selects the most likely diagnosis.",
+  "l4": "Which of the following infectious agents is the most likely cause of this patient’s pneumonia?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Recognizes factors in the history, or physical or laboratory study findings that affect patient prognosis or outcome, or that determine therapy.",
+  "l4": "Which of the following factors in this patient’s history most strongly indicates a poor/good prognosis?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Recognizes factors in the history, or physical or laboratory study findings that affect patient prognosis or outcome, or that determine therapy.",
+  "l4": "Which of the following factors is most critical in determining this patient’s ability to remain at home?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Interprets laboratory or other diagnostic study results and identifies current/future status of patient.",
+  "l4": "Based on these findings, this patient is most likely to develop which of the following?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Interprets laboratory or other diagnostic study results and identifies current/future status of patient.",
+  "l4": "Based on these findings, this patient is most likely to develop which of the following during _________ (period of time)?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Recognizes associated conditions of a disease, including complications, or indicators of potential complications.",
+  "l4": "Which of the following is the most likely complication of this patient’s current condition?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Recognizes associated conditions of a disease, including complications, or indicators of potential complications.",
+  "l4": "Without treatment, which of the following is most likely to develop in this patient?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease for a specific patient.",
+  "l4": "Which of the following is the most likely clinical course for this patient?"
+ },
+ {
+  "l2": "Patient Care: Diagnosis—Determining Prognosis/Outcome",
+  "l3": "Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease for a specific patient.",
+  "l4": "It is most appropriate to inform this patient of which of the following risk factors?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient or knows the potential condition itself.",
+  "l4": "Which of the following is the strongest predisposing factor in this patient for developing a chronic condition?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient or knows the potential condition itself.",
+  "l4": "It is most appropriate to counsel this patient that he/she is at greatest risk for which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient or knows the potential condition itself.",
+  "l4": "If untreated, this patient is at greatest risk for which of the following disorders?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows pertinent incidence statistics and identifies patient groups at risk; knows incidence of symptomless/ dangerous disorders among various groups. Response options compare patient’s risk factors for disease with those of the general population.",
+  "l4": "Which of the following factors is most appropriate to consider in assessing the need for additional screening in this patient population?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.",
+  "l4": "In addition to a [screening test] annually, which of the following screening studies is most appropriate?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.",
+  "l4": "Which of the following is the most appropriate screening test for this patient at this time?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.",
+  "l4": "At this time, which of the following is the most appropriate next step in the evaluation of this patient?(response options would be screening tests)"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins). Knows timing of vaccinations.",
+  "l4": "Which of the following is the most appropriate recommendation for vaccination?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins). Knows timing of vaccinations.",
+  "l4": "[To reduce the likelihood of recurrence,] it is most appropriate to (prescribe/administer) which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins). Knows timing of vaccinations.",
+  "l4": "Which of the following is the most appropriate vaccine to administer at this time?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows appropriate counseling (and reassuring, comforting) of patient or family regarding current and future problems, including risk factors related to present encounter. The response options focus on features and course of disease as they relate to a specific patient.",
+  "l4": "It is most appropriate to counsel this patient regarding which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Knows appropriate counseling (and reassuring, comforting) of patient or family regarding current and future problems, including risk factors related to present encounter. The response options focus on features and course of disease as they relate to a specific patient.",
+  "l4": "Which of the following is the most appropriate management to prevent the spread of this patient’s illness?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Educates patients on screening, health maintenance, and self-care options such as nutrition, weight loss, breast self-examinations, home blood pressure monitoring, or breast-feeding. The response options are a variety of patient actions.",
+  "l4": "Which of the following is the most appropriate recommendation?"
+ },
+ {
+  "l2": "Patient Care: Management—Health Maintenance and Disease Prevention",
+  "l3": "Educates patients on screening, health maintenance, and self-care options such as nutrition, weight loss, breast self-examinations, home blood pressure monitoring, or breast-feeding. The response options are a variety of patient actions.",
+  "l4": "It is most appropriate to advise this patient to do which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Selects most appropriate pharmacotherapy. Response options are all drugs and can include “No pharmacotherapy at this time.” Drugs include substances such as vitamins and supplements.",
+  "l4": "Which of the following is the most appropriate pharmacotherapy at this time?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Selects most appropriate pharmacotherapy. Response options are all drugs and can include “No pharmacotherapy at this time.” Drugs include substances such as vitamins and supplements.",
+  "l4": "The most appropriate next step is to administer which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Assesses patient adherence to treatment regimen, recognizes techniques to increase adherence to or understanding of the disease state, and knows how adherence may be affected by providing instructions with therapy. Options can include “No further testing is indicated.”",
+  "l4": "To assess adherence and therapeutic efficacy in this patient, which of the following studies is most appropriate to order after initiation of therapy?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Assesses patient adherence to treatment regimen, recognizes techniques to increase adherence to or understanding of the disease state, and knows how adherence may be affected by providing instructions with therapy. Options can include “No further testing is indicated.”",
+  "l4": "Which of the following methods is most appropriate to assess adherence to treatment in this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Recognizes factors that alter drug requirements for a patient, such as disease, age, pregnancy, BMI, renal failure, liver disease, or gender. Response options are factors about the patient that affect the choice of a drug regimen.",
+  "l4": "Which of the following variables is most appropriate to consider in determining the appropriate dose of medication for this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Recognizes factors that alter drug requirements for a patient, such as disease, age, pregnancy, BMI, renal failure, liver disease, or gender. Response options are factors about the patient that affect the choice of a drug regimen.",
+  "l4": "Which of the following factors is most likely to influence therapy for this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Recognizes factors that alter drug requirements for a patient, such as disease, age, pregnancy, BMI, renal failure, liver disease, or gender. Response options are factors about the patient that affect the choice of a drug regimen.",
+  "l4": "Which of the following is most appropriate to consider before selecting pharmacotherapy?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows adverse effects of various drugs or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including laboratory studies to monitor pharmacotherapy. Vignette includes description of the simultaneous use of drugs prescribed by another provider, over-the-counter drugs, prescribed opioids and other Schedule IV medications taken illegally or in greater than prescribed doses, illegal opioids, alcohol, and certain foods.",
+  "l4": "Which of the following is the most likely cause of this patient’s symptoms?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows adverse effects of various drugs or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including laboratory studies to monitor pharmacotherapy. Vignette includes description of the simultaneous use of drugs prescribed by another provider, over-the-counter drugs, prescribed opioids and other Schedule IV medications taken illegally or in greater than prescribed doses, illegal opioids, alcohol, and certain foods.",
+  "l4": "Which of the following is the most likely complication of the addition of this medication?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows adverse effects of various drugs or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including laboratory studies to monitor pharmacotherapy. Vignette includes description of the simultaneous use of drugs prescribed by another provider, over-the-counter drugs, prescribed opioids and other Schedule IV medications taken illegally or in greater than prescribed doses, illegal opioids, alcohol, and certain foods.",
+  "l4": "Which of the following is the most likely explanation for this patient’s current condition?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows adverse effects of various drugs or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including laboratory studies to monitor pharmacotherapy. Vignette includes description of the simultaneous use of drugs prescribed by another provider, over-the-counter drugs, prescribed opioids and other Schedule IV medications taken illegally or in greater than prescribed doses, illegal opioids, alcohol, and certain foods.",
+  "l4": "The most likely cause of this patient’s condition is interaction between which of the following drugs?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows contraindications of various medications.",
+  "l4": "Which of the following medications is contraindicated in this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows contraindications of various medications.",
+  "l4": "Which of the following medications is most likely to increase the risk for development/progression of _________  (diagnosis) in this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows modifications of a therapeutic regimen within the context of continuing care.",
+  "l4": "Which of the following is the most appropriate next step in pharmacotherapy?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows modifications of a therapeutic regimen within the context of continuing care.",
+  "l4": "Which of the following is the most appropriate change/modification in this patient’s pharmacotherapy?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting and Monitoring Pharmacotherapy",
+  "l3": "Knows appropriate monitoring to evaluate effectiveness of pharmacotherapy or to monitor for the adverse effects of pharmacotherapy in a patient who has not had a recurrence or progression of disease.",
+  "l4": "Which of the following studies is most appropriate to monitor the effectiveness of therapy in this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows most appropriate management of selected conditions, including recognizing use/misuse of medications, alcohol, or other substances. Response options would be a list of management steps.",
+  "l4": "Which of the following is the most appropriate next step in management?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows most appropriate management of selected conditions, including recognizing use/misuse of medications, alcohol, or other substances. Response options would be a list of management steps.",
+  "l4": "Which of the following is the most appropriate initial management/recommendation?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows immediate management or priority in management, specifically in emergency or acute cases. This objective is most appropriate in life-threatening emergencies or cases of potential organ failure.",
+  "l4": "Which of the following is the most appropriate immediate/initial/next step in management?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows immediate management or priority in management, specifically in emergency or acute cases. This objective is most appropriate in life-threatening emergencies or cases of potential organ failure.",
+  "l4": "Which of the following is the priority in management?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows immediate management or priority in management, specifically in emergency or acute cases. This objective is most appropriate in life-threatening emergencies or cases of potential organ failure.",
+  "l4": "Which of the following is the most critical factor in formulating a management plan for this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows most appropriate follow-up or monitoring approach regarding the management plan.",
+  "l4": "Which of the following is the most appropriate monitoring/follow-up plan?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows current/short-term management of patients.",
+  "l4": "Which of the following is the most appropriate next step following treatment?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows current/short-term management of patients.",
+  "l4": "Which of the following is the most appropriate next step in monitoring this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Evaluates severity of patient condition in terms of need for referral for surgical treatments/procedures versus other nonsurgical options.",
+  "l4": "Which of the following findings in this patient indicates the need for surgical intervention/intubation/ transplantation/admission to another department?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows appropriate surgical management. The response options are all surgical procedures.",
+  "l4": "Which of the following is the most appropriate surgical management?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows preoperative/postoperative or procedural management.",
+  "l4": "Which of the following is the most appropriate postoperative management?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows preoperative/postoperative or procedural management.",
+  "l4": "Which of the following is the most appropriate preoperative preparation?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows preoperative/postoperative or procedural management.",
+  "l4": "Prior to the procedure (or specify the procedure), it is appropriate to first obtain/do which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows indications for admission to the hospital or to other appropriate setting. Knows appropriate nonhospital health care settings, such as a nursing care facility, hospice care, or at-home care with assistance of health aide.",
+  "l4": "Placement in a/an _________  is recommended based on which of the following factors?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows indications for admission to the hospital or to other appropriate setting. Knows appropriate nonhospital health care settings, such as a nursing care facility, hospice care, or at-home care with assistance of health aide.",
+  "l4": "To which of the following inpatient facilities is it most appropriate to transfer this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows most appropriate discharge planning.",
+  "l4": "In discussing discharge plans with this patient, it is most appropriate to advise him/her of which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows most appropriate discharge planning.",
+  "l4": "Before this patient is discharged, it is most appropriate to counsel him/her regarding which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows most appropriate discharge planning.",
+  "l4": "Which of the following is the most appropriate goal for follow-up?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows components of rehabilitation program, such as prostheses, psychosocial factors, or motor dysfunction. The response options are rehabilitation management steps.",
+  "l4": "Which of the following components of his/her overall care is most appropriate to consider?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows appropriate use and procedures regarding hospice care.",
+  "l4": "Which of the following is the most appropriate step regarding hospice care for this patient?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows appropriate use and procedures regarding hospice care.",
+  "l4": "Which of the following is the most appropriate next step?  (hospice referral is correct answer)"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Educates patient or family regarding self-care, such as breast-feeding, or at-home blood pressure measurement and glucose monitoring. The response options can be a variety of patient actions.",
+  "l4": "Which of the following is the most appropriate recommendation?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Educates patient or family regarding self-care, such as breast-feeding, or at-home blood pressure measurement and glucose monitoring. The response options can be a variety of patient actions.",
+  "l4": "It is most appropriate to advise this patient to do which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows relevant roles of allied health personnel.",
+  "l4": "The most appropriate next step is to arrange consultation with which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Clinical Interventions/Treatments",
+  "l3": "Knows relevant roles of allied health personnel.",
+  "l4": "It is most appropriate to refer this patient to which of the following?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting Clinical Interventions (Mixed Management)",
+  "l3": "Selects most appropriate option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, or no intervention at this time, observation, referral).",
+  "l4": "Which of the following is the most appropriate next step?"
+ },
+ {
+  "l2": "Patient Care: Management—Selecting Clinical Interventions (Mixed Management)",
+  "l3": "Selects most appropriate option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, or no intervention at this time, observation, referral).",
+  "l4": "Which of the following is the most appropriate initial step in management?"
+ },
+ {
+  "l2": "Patient Care: Management—Monitoring/Surveillance for Disease Recurrence or Progression",
+  "l3": "Knows the indications for surveillance for recurrence or progression of disease following treatment.",
+  "l4": "Which of the following is the most appropriate annual monitoring study?"
+ },
+ {
+  "l2": "Patient Care: Management—Monitoring/Surveillance for Disease Recurrence or Progression",
+  "l3": "Knows how to monitor a chronic disease in a stable patient where a change in patient status might indicate a need to change therapy.",
+  "l4": "Which of the following is the most appropriate diagnostic study at this time?"
+ },
+ {
+  "l2": "Patient Care: Management—Monitoring/Surveillance for Disease Recurrence or Progression",
+  "l3": "Knows most appropriate long-term treatment or management goals, including continued treatment of a known patient. In a patient with a chronic condition, knows preventive medicine.",
+  "l4": "Which of the following is the most appropriate long-term management?"
+ },
+ {
+  "l2": "Patient Care: Management—Monitoring/Surveillance for Disease Recurrence or Progression",
+  "l3": "Knows most appropriate long-term treatment or management goals, including continued treatment of a known patient. In a patient with a chronic condition, knows preventive medicine.",
+  "l4": "It is most appropriate to advise this patient of which of the following long-term management goals?"
+ },
+ {
+  "l2": "Communication and Interpersonal Skills",
+  "l3": "Communication and Interpersonal Skills",
+  "l4": "Which of the following is the most appropriate opening remark to this patient?"
+ },
+ {
+  "l2": "Communication and Interpersonal Skills",
+  "l3": "Communication and Interpersonal Skills",
+  "l4": "Which of the following is the most appropriate response by the provider?"
+ },
+ {
+  "l2": "Communication and Interpersonal Skills",
+  "l3": "Communication and Interpersonal Skills",
+  "l4": "Which of the following statements by the provider is most appropriate to...?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows the guidelines for obtaining informed consent for treatment including those for children and adolescents, third-party permission, and emergent situations.",
+  "l4": "Which of the following is the most appropriate method to facilitate patient informed consent?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes need for third-party permission for treatment in medical emergencies.",
+  "l4": "In requesting an autopsy, consent must be given by which of the following individuals?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for treatment of minors with/without notification of parents.",
+  "l4": "Regarding obtaining consent for treatment today, which of the following is the most accurate conclusion for providing services to this patient?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for treatment of minors with/without notification of parents.",
+  "l4": "Until the parents can be reached, which of the following is the most appropriate management?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for treatment of minors with/without notification of parents.",
+  "l4": "Before examining this patient, informed consent needs to be obtained from which of the following individuals?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for treatment of minors with/without notification of parents.",
+  "l4": "Which of the following is the most appropriate response to the request for services for this child/ adolescent?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definitions of competence and sanity.",
+  "l4": "Determination of this patient’s competency to make decisions should be based on which of the following factors?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definitions of competence and sanity.",
+  "l4": "Which of the following is the most significant indication that this patient may not have sufficient capacity for informed consent or refusal?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definitions of competence and sanity.",
+  "l4": "Which of the following factors or findings renders this patient incompetent to make health care decisions on her/his own behalf?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definitions of competence and sanity.",
+  "l4": "The information that is most decisive in determining this patient’s mental capacity to refuse treatment is which of the following?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows the guidelines for involuntary admission (eg, third-party permission, court order).",
+  "l4": "Which of the following is the most appropriate next step? (answer is involuntary admission)"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows the guidelines for involuntary admission (eg, third-party permission, court order).",
+  "l4": "In considering commitment of this patient to _________ , which of the following is the most appropriate next step?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for such things as confidentiality of medical records (eg, regarding patient’s relatives, employer, insurance/legal agents), boundaries, privacy, and truth-telling.",
+  "l4": "Which of the following is the most accurate statement concerning the confidentiality of this patient’s medical record?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for provider/patient relationship.",
+  "l4": "Regarding this colleague’s behavior, which of the following is the most appropriate advice to this patient?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Assesses degree of disclosure to terminally ill patients.",
+  "l4": "Which of the following is the primary consideration regarding informing this patient of his/her condition/ prognosis?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes patient’s right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.",
+  "l4": "Which of the following is the most appropriate advice to the family regarding their wishes for this patient?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes patient’s right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.",
+  "l4": "Given your knowledge of this patient and her past wishes, which of the following is the most appropriate recommendation?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes patient’s right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.",
+  "l4": "In reaching an opinion about whether do-not-attempt-resuscitation status should be ordered, which of the following information has the highest priority?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes patient’s right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.",
+  "l4": "The best method of ensuring that this patient’s wishes will be honored is to do which of the following?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Assesses quality-of-life decisions (especially in elder patients).",
+  "l4": "In considering treatment options for this patient, which of the following is the most compelling consideration?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Assesses quality-of-life decisions (especially in elder patients).",
+  "l4": "Which of the following is the most appropriate next step regarding this patient’s end-of-life needs?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows appropriate prescriptive practices; knows appropriate use of opioids in terminally ill patients.",
+  "l4": "Which of the following is the most effective intervention to minimize this patient’s pain?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definition of and legal issues regarding brain death.",
+  "l4": "Which of the following is the most critical ethical consideration in deciding whether to withdraw life support in this patient?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definition of and legal issues regarding brain death.",
+  "l4": "Which of the following is the most accurate statement regarding the physician’s decision to discontinue life-sustaining interventions in this patient?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows definition of and legal issues regarding brain death.",
+  "l4": "In order for a clinical diagnosis of brain death to be made in this child, documentation of which of the following is needed?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows management of terminally ill patients related to treating chronic pain, and recognizes patient’s expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.",
+  "l4": "Which of the following is most appropriate to manage this patient’s pain?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows management of terminally ill patients related to treating chronic pain, and recognizes patient’s expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.",
+  "l4": "Which of the following is the most appropriate advice for this patient regarding his/her pain?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows management of terminally ill patients related to treating chronic pain, and recognizes patient’s expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.",
+  "l4": "Which of the following is the most likely underlying cause of this change in behavior?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows management of terminally ill patients related to treating chronic pain, and recognizes patient’s expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.",
+  "l4": "In addressing this patient’s (fear), which of the following is the most appropriate counseling?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows guidelines for reporting findings to proper authorities, such as social services, police, medical society, or coroner.",
+  "l4": "Which of the following is the most appropriate action in patient care?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Knows Good Samaritan laws.",
+  "l4": "Regarding your colleague’s liability associated with this patient’s actions at the scene of the collision, which of the following is the most accurate conclusion?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes provider error and negligence.",
+  "l4": "With regard to the possibility that this situation represents medical malpractice, it is most critical to do which of the following?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes provider error and negligence.",
+  "l4": "The most appropriate response to this situation is to do which of the following?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes provider error and negligence.",
+  "l4": "After you document the error, the most appropriate management is to do which of the following?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes provider error and negligence.",
+  "l4": "Which of the following is the most appropriate response to this allegation?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes and deals appropriately with impaired providers.",
+  "l4": "The most appropriate response to the licensing board is to recommend which of the following?"
+ },
+ {
+  "l2": "Professionalism and Legal/Ethical Issues",
+  "l3": "Recognizes and deals appropriately with impaired providers.",
+  "l4": "Which of the following is the most appropriate action? (where options describe dealing with impaired colleague)"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Understands basic concepts and terminology, principles, and application of quality improvement science and outcome analysis.",
+  "l4": "Which of the following is the most appropriate description of the deviation from official procedure?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following is the most appropriate next step in designing a standard process for...?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following is most likely to improve patient satisfaction?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following strategies is most likely to achieve this goal?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following is the most appropriate next step by this hospital to improve its system of care?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following is the most appropriate initial recommendation by the task force?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following is most likely to improve outcomes in this situation?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.",
+  "l4": "Which of the following is most likely to decrease morbidity/mortality in this situation?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Understands the role and characteristics of teams and communication strategies.",
+  "l4": "Which of the following is most appropriate to ensure the success of this project?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Understands the role and characteristics of teams and communication strategies.",
+  "l4": "Which of the following actions is most likely to improve communication within this health care team?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Anticipates, recognizes, analyzes, and mitigates risk (sources of error).",
+  "l4": "Which of the following is the most appropriate method to prevent/reduce the risk of transmission of this infection?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Anticipates, recognizes, analyzes, and mitigates risk (sources of error).",
+  "l4": "Which of the following is most likely to prevent recurrence of this type of error?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Anticipates, recognizes, analyzes, and mitigates risk (sources of error).",
+  "l4": "Which of the following is the most likely cause of the error?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Anticipates, recognizes, analyzes, and mitigates risk (sources of error).",
+  "l4": "Which of the following is most likely to decrease the likelihood of this error happening again?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Anticipates, recognizes, analyzes, and mitigates risk (sources of error).",
+  "l4": "Which of the following is the most appropriate next step?"
+ },
+ {
+  "l2": "Systems-based Practice and Patient Safety",
+  "l3": "Evaluates, reports, and responds to near-misses and system errors.",
+  "l4": "Which of the following is the most appropriate action by the hospital staff immediately following the incident?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of epidemiology and population health, including health status indicators, outbreak investigation, points of intervention.",
+  "l4": "Which of the following is the most likely effect on estimates of disease incidence and prevalence?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of epidemiology and population health, including health status indicators, outbreak investigation, points of intervention.",
+  "l4": "Which of the following is the annual incidence of _________  in this study?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.",
+  "l4": "The most likely cause of the study results is an error related to which of the following?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.",
+  "l4": "Which of the following features of this study is of greatest potential concern?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.",
+  "l4": "Which of the following potential flaws is most likely to invalidate this study?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.",
+  "l4": "Which of the following best describes this study design?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.",
+  "l4": "Which of the following is the major advantage of this study design?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "Which of the following is the most likely effect on sensitivity and specificity?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "Which of the following is the most likely effect on the predictive value?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "If the prevalence of the disease is increased to ___ %, which of the following would be the most likely outcome?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "According to these results, which of the following represents the sensitivity of _________  for detecting _________  within this population?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "According to these results, which of the following is closest to the predictive value of a positive test result?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "If _________  were decreased to _________ , which of the following would be the most likely result?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "Changing the screening population is most likely to have which of the following effects on this test?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "In determining the appropriate diagnostic test for this patient, which of the following characteristics of the test is most appropriate to consider?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "Which of the following is the most appropriate conclusion regarding the test?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).",
+  "l4": "Which of the following combinations of sensitivity and specificity would be characteristic of the most appropriate confirmatory/screening test?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following conclusions can be drawn from these data?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the most appropriate conclusion about these data?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the most accurate interpretation of these data?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Based on these additional data, it is most appropriate to conclude which of the following?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following conclusions is most strongly justified based on this information/study?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the most accurate interpretation of the author’s conclusion regarding these study results?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the most likely explanation for this finding?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following represent the results of a meta-analysis?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "In determining the validity of the meta-analysis, which of the following is the most appropriate factor to consider?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the best interpretation of this confidence interval?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Compared with _________ , which of the following is the relative risk for _________  in _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the estimated odds ratio of _________  in _________  compared with _________  ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the best estimate of the relative risk of _________  for those with _________ compared with those with _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the relative risk for _________  5 years following _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the attributable (excess) risk per _________  patients for development of _________ 5 years following _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following variables is measured on a nominal scale?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the mean (or mode or standard deviation) in the sample shown in the graph?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Assuming a normal (Gaussian) distribution, which of the following best represents the median _________ for this group?- According to these results, which of the following is the number of patients who would need to be treated with the new drug to prevent mortality in one patient?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the number needed to treat with _________  instead of _________  to prevent _________  in one patient?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Based on these data, which of the following best represents the number of patients that must be treated with _________  to prevent one episode of _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "The outcome of this study is statistically significant because of which of the following?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following statistics is most likely to establish the difference among the _________  of these groups?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the case-fatality rate for _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the expected number of false negatives (OR false positives) in this population of _________  women/men?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following best explains the lack of a significant difference in _________ ?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Understands use and interpretation of statistical principles and measures of association.",
+  "l4": "Which of the following is the likelihood of survival?"
+ },
+ {
+  "l2": "Practice-based Learning—Applied Biostatistics and Clinical Epidemiology",
+  "l3": "Makes decisions about patient care based on results of studies or other written materials (eg, pharmaceutical advertisements, abstracts, results of literature searches).",
+  "l4": "Which of the following information from the literature is most relevant to the management of this patient?"
+ }
+]
