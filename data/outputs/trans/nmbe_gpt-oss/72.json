@@ -1,0 +1,82 @@
+[
+ [
+  "預測最可能的額外體格發現；選擇該發現本身或能導致該發現的適當檢查技術。選項為發現或針對性體格檢查技術。",
+  "Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding. The options are findings or directed physical examination techniques.\n"
+ ],
+ [
+  "其餘的身體檢查最有可能顯示以下哪項？（請確保所有選項都是尚未在病患情境中進行的身體檢查項目）",
+  "- The remainder of the physical examination is most likely to show which of the following? (ensure all options are portions of the physical examination that would not yet have occurred in the patient scenario)\n"
+ ],
+ [
+  "以下哪項最適合將身體檢查的重點放在？（示例選項：‘聽診肺部’，‘觸診腹部’，‘臀關節旋轉’）",
+  "- It is most appropriate to direct the physical examination toward which of the following? (sample options: “Auscultation of the lungs,” “Palpation of the abdomen,” “Rotation of hip joints”)\n"
+ ],
+ [
+  "以下哪一項徵象或症狀最能表明需要進一步研究？",
+  "- Which of the following signs or symptoms is most indicative of the need for further studies?\n"
+ ],
+ [
+  "病患照護：診斷—選擇與詮釋實驗室與診斷檢查，選擇最適合的實驗室或診斷檢查，包括神經精神測試，或最有可能確立/確認診斷的檢查。選項可包含「不需要進一步檢查」。",
+  "Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”\n"
+ ],
+ [
+  "以下哪項是此時最適合的診斷檢查？",
+  "- Which of the following is the most appropriate diagnostic study at this time?\n"
+ ],
+ [
+  "以下哪項是最適合的初步診斷檢查？",
+  "- Which of the following is the most appropriate initial diagnostic study?\n"
+ ],
+ [
+  "以下哪一項是評估中最合適的下一步？",
+  "- Which of the following is the most appropriate next step in evaluation?\n"
+ ],
+ [
+  "以下哪項研究最有可能確定診斷？",
+  "- Which of the following studies is most likely to establish a diagnosis?\n"
+ ],
+ [
+  "以下哪項實驗室檢查最有可能確認診斷？",
+  "- Which of the following laboratory studies is most likely to confirm the diagnosis?\n"
+ ],
+ [
+  "以下哪項檢查最適合安排作為後續追蹤？",
+  "- Which of the following studies is most appropriate to order for follow-up?\n"
+ ],
+ [
+  "以下哪項檢查最適合定期取得以監測患者的長期護理？",
+  "- Which of the following studies is most appropriate to obtain periodically to monitor the patient’s long-term care?\n"
+ ],
+ [
+  "解讀實驗室或其他研究結果。回覆選項為實驗室/診斷資料的解釋。",
+  "Interprets laboratory or other study findings. Response options are interpretations of the laboratory/diagnostic data.\n"
+ ],
+ [
+  "以下哪項最有可能解釋這些實驗室檢查結果？",
+  "- Which of the following is the most likely explanation for these laboratory findings?\n"
+ ],
+ [
+  "根據這些發現，這位病人的病情最有可能歸因於以下哪項？",
+  "- Based on these findings, this patient’s condition is most likely attributable to which of the following?\n"
+ ],
+ [
+  "預測最可能的實驗室或診斷檢查結果。回覆選項為臨床研究或預測的研究結果。",
+  "Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.\n"
+ ],
+ [
+  "以下哪項實驗室檢查結果最有可能在此患者中異常？",
+  "- Results of which of the following laboratory studies are most likely to be abnormal in this patient?\n"
+ ],
+ [
+  "測量血清電解質濃度最有可能顯示以下哪項？",
+  "- Measurement of serum electrolyte concentrations is most likely to show which of the following?\n"
+ ],
+ [
+  "X光檢查 _________ 最有可能顯示以下哪項？",
+  "- An x-ray of the _________  is most likely to show which of the following?\n"
+ ],
+ [
+  "動脈血氣分析最有可能顯示以下哪一組結果？",
+  "- Arterial blood gas analysis is most likely to show which of the following sets of findings?"
+ ]
+]

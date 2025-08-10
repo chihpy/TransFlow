@@ -1,0 +1,70 @@
+[
+ [
+  "辨識或評估既有臨床或生理發現，以確定其底層解剖結構或生理位置。",
+  "Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.\n"
+ ],
+ [
+  "此患者的發現最可能的原因是哪一個結構的損傷？",
+  "- The most likely cause of the findings in this patient is damage to which of the following structures?\n"
+ ],
+ [
+  "以下哪些結構在這次手術中面臨最大的損壞風險？",
+  "- Which of the following structures is at greatest risk for damage during this procedure?\n"
+ ],
+ [
+  "以下哪條神經最有可能傳遞這位病人的疼痛感覺？",
+  "- Which of the following nerves is most likely carrying the sensation for this patient’s pain?\n"
+ ],
+ [
+  "這些發現最可能的原因是下列哪一結構的功能失調？",
+  "- The most likely cause of these findings is dysfunction of which of the following structures?\n"
+ ],
+ [
+  "以下哪種發育異常最可能導致此病患的發現？",
+  "- Which of the following developmental abnormalities is the most likely cause of the findings in this patient?\n"
+ ],
+ [
+  "了解各種藥物的作用機制；根據作用機制從藥物選項列表中選擇。",
+  "Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.\n"
+ ],
+ [
+  "以下哪種機制最可能解釋此藥的益處？",
+  "- Which of the following is the most likely mechanism of the beneficial effect of this drug?\n"
+ ],
+ [
+  "以下哪種管理方式最合適？",
+  "- Which of the following is the most appropriate management? (response options would be drug classes or mechanisms of action)\n"
+ ],
+ [
+  "以下哪種作用機制最可能解釋此藥的治療效果？",
+  "- Which of the following is the most likely mechanism of action of the therapeutic effect of this drug?\n"
+ ],
+ [
+  "這個病人最適合的藥物，其作用機制會是下列哪一種？",
+  "- The most appropriate medication for this patient will have which of the following mechanisms of action?\n"
+ ],
+ [
+  "病患照護：診斷—取得與預測病史及理學檢查，了解所選疾病的徵兆/症狀。選項為徵兆與症狀。題目詢問哪些徵兆與症狀是病患狀況的特徵。通常用於病患出現此狀況時。",
+  "Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination Knows signs/symptoms of selected disorders. Response options are signs and symptoms. The item asks which signs and symptoms are characteristic of the patient’s condition. Typically used when patient presents with the condition.\n"
+ ],
+ [
+  "以下哪項徵兆/症狀與此病患的潛在診斷最相符？",
+  "- Which of the following signs/symptoms is most consistent with the underlying diagnosis in this patient?\n"
+ ],
+ [
+  "了解個體的疾病發展風險因素。根據病史中呈現的目前症狀，找出病史中的相關因素。通常用於病患出現此症狀時。",
+  "Knows individual’s risk factors for development of condition. Given current symptoms in presented history, identifies pertinent factor in the history. Typically used when patient presents with the condition.\n"
+ ],
+ [
+  "以下哪個因素在病人的病史中最多增加了罹患此病情的風險？",
+  "- Which of the following factors in this patient’s history most increased the risk for developing this condition?\n"
+ ],
+ [
+  "針對特定問題，能判斷需要詢問哪些問題以取得相關的附加病史。 回應選項不應在情境中提及，且不應包含在初步病史詢問中獲得的細節。 若詢問情境中已提及且已獲取的信息，請使用以下引導語。",
+  "Given a specific problem, knows what to ask to obtain pertinent additional history. The response options should not be referenced in the vignette and should not include details that would be obtained during initial history-taking. If asking about information that was already obtained and is mentioned in the vignette, use the following lead-in.\n"
+ ],
+ [
+  "關於下列何者，最合適取得更詳細的相關背景資訊？",
+  "- It is most appropriate to obtain specific additional history regarding which of the following?"
+ ]
+]

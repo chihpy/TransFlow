@@ -1,0 +1,76 @@
+APPENDIX B: SAMPLE LEAD-INS BASED ON TASK COMPETENCIES Medical Knowledge: Applying Foundational Science Concepts Foundational (basic) science comprises items that require understanding and application of basic science principles to answer the question. Foundational science items should not be answerable based simply on clinical knowledge alone or on pattern recognition (eg, providing a list of symptoms and asking what drug to prescribe). These items should require clinical knowledge and also knowledge of one or more foundational science principles that would have likely been learned in preclinical education and hopefully reinforced during clinical rotations.
+Patient Care: Diagnosis—Causes and Mechanisms Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.
+Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
+Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
+Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
+Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination Knows signs/symptoms of selected disorders. Response options are signs and symptoms. The item asks which signs and symptoms are characteristic of the patient’s condition. Typically used when patient presents with the condition.
+Knows individual’s risk factors for development of condition. Given current symptoms in presented history, identifies pertinent factor in the history. Typically used when patient presents with the condition.
+Given a specific problem, knows what to ask to obtain pertinent additional history. The response options should not be referenced in the vignette and should not include details that would be obtained during initial history-taking. If asking about information that was already obtained and is mentioned in the vignette, use the following lead-in.
+Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding. The options are findings or directed physical examination techniques.
+Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”
+Interprets laboratory or other study findings. Response options are interpretations of the laboratory/diagnostic data.
+Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.
+Selects most appropriate laboratory or diagnostic study after change in patient status.
+Patient Care: Diagnosis—Formulating the Diagnosis Selects the most likely diagnosis.
+Patient Care: Diagnosis—Determining Prognosis/Outcome Recognizes factors in the history, or physical or laboratory study findings that affect patient prognosis or outcome, or that determine therapy.
+Interprets laboratory or other diagnostic study results and identifies current/future status of patient.
+Recognizes associated conditions of a disease, including complications, or indicators of potential complications.
+Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease for a specific patient.
+Patient Care: Management—Health Maintenance and Disease Prevention Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient or knows the potential condition itself.
+Knows pertinent incidence statistics and identifies patient groups at risk; knows incidence of symptomless/ dangerous disorders among various groups. Response options compare patient’s risk factors for disease with those of the general population.
+Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.
+(response options would be screening tests) Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins). Knows timing of vaccinations.
+Knows appropriate counseling (and reassuring, comforting) of patient or family regarding current and future problems, including risk factors related to present encounter. The response options focus on features and course of disease as they relate to a specific patient.
+Educates patients on screening, health maintenance, and self-care options such as nutrition, weight loss, breast self-examinations, home blood pressure monitoring, or breast-feeding. The response options are a variety of patient actions.
+Patient Care: Management—Selecting and Monitoring Pharmacotherapy Selects most appropriate pharmacotherapy. Response options are all drugs and can include “No pharmacotherapy at this time.” Drugs include substances such as vitamins and supplements.
+Assesses patient adherence to treatment regimen, recognizes techniques to increase adherence to or understanding of the disease state, and knows how adherence may be affected by providing instructions with therapy. Options can include “No further testing is indicated.”
+Recognizes factors that alter drug requirements for a patient, such as disease, age, pregnancy, BMI, renal failure, liver disease, or gender. Response options are factors about the patient that affect the choice of a drug regimen.
+Knows adverse effects of various drugs or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including laboratory studies to monitor pharmacotherapy. Vignette includes description of the simultaneous use of drugs prescribed by another provider, over-the-counter drugs, prescribed opioids and other Schedule IV medications taken illegally or in greater than prescribed doses, illegal opioids, alcohol, and certain foods.
+Knows contraindications of various medications.
+Knows modifications of a therapeutic regimen within the context of continuing care.
+Knows appropriate monitoring to evaluate effectiveness of pharmacotherapy or to monitor for the adverse effects of pharmacotherapy in a patient who has not had a recurrence or progression of disease.
+Patient Care: Management—Clinical Interventions/Treatments Knows most appropriate management of selected conditions, including recognizing use/misuse of medications, alcohol, or other substances. Response options would be a list of management steps.
+Knows immediate management or priority in management, specifically in emergency or acute cases. This objective is most appropriate in life-threatening emergencies or cases of potential organ failure.
+Knows most appropriate follow-up or monitoring approach regarding the management plan.
+Knows current/short-term management of patients.
+Evaluates severity of patient condition in terms of need for referral for surgical treatments/procedures versus other nonsurgical options.
+Knows appropriate surgical management. The response options are all surgical procedures.
+Knows preoperative/postoperative or procedural management.
+Knows indications for admission to the hospital or to other appropriate setting. Knows appropriate nonhospital health care settings, such as a nursing care facility, hospice care, or at-home care with assistance of health aide.
+Knows most appropriate discharge planning.
+Knows components of rehabilitation program, such as prostheses, psychosocial factors, or motor dysfunction.
+The response options are rehabilitation management steps.
+Knows appropriate use and procedures regarding hospice care.
+Knows relevant roles of allied health personnel.
+Patient Care: Management—Selecting Clinical Interventions (Mixed Management) Selects most appropriate option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, or no intervention at this time, observation, referral).
+Patient Care: Management—Monitoring/Surveillance for Disease Recurrence or Progression Knows the indications for surveillance for recurrence or progression of disease following treatment.
+Knows how to monitor a chronic disease in a stable patient where a change in patient status might indicate a need to change therapy.
+Knows most appropriate long-term treatment or management goals, including continued treatment of a known patient. In a patient with a chronic condition, knows preventive medicine.
+Communication and Interpersonal Skills
+Professionalism and Legal/Ethical Issues Knows the guidelines for obtaining informed consent for treatment including those for children and adolescents, third-party permission, and emergent situations.
+Recognizes need for third-party permission for treatment in medical emergencies.
+Knows guidelines for treatment of minors with/without notification of parents.
+Knows definitions of competence and sanity.
+Knows the guidelines for involuntary admission (eg, third-party permission, court order).
+Knows guidelines for such things as confidentiality of medical records (eg, regarding patient’s relatives, employer, insurance/legal agents), boundaries, privacy, and truth-telling.
+Knows guidelines for provider/patient relationship.
+Assesses degree of disclosure to terminally ill patients.
+Recognizes patient’s right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.
+Assesses quality-of-life decisions (especially in elder patients).
+Knows appropriate prescriptive practices; knows appropriate use of opioids in terminally ill patients.
+Knows definition of and legal issues regarding brain death.
+Knows management of terminally ill patients related to treating chronic pain, and recognizes patient’s expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.
+Knows guidelines for reporting findings to proper authorities, such as social services, police, medical society, or coroner.
+Knows Good Samaritan laws.
+Recognizes provider error and negligence.
+Recognizes and deals appropriately with impaired providers.
+Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.
+Understands the role and characteristics of teams and communication strategies.
+Anticipates, recognizes, analyzes, and mitigates risk (sources of error).
+Evaluates, reports, and responds to near-misses and system errors.
+Practice-based Learning—Applied Biostatistics and Clinical Epidemiology Understands and can apply principles of epidemiology and population health, including health status indicators, outbreak investigation, points of intervention.
+Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.
+Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).
+Understands use and interpretation of statistical principles and measures of association.
+Makes decisions about patient care based on results of studies or other written materials (eg, pharmaceutical advertisements, abstracts, results of literature searches).
+NOTES

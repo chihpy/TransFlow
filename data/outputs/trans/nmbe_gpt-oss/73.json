@@ -1,0 +1,78 @@
+[
+ [
+  "在病人狀況變化後，選擇最適合的實驗室或診斷檢查。",
+  "Selects most appropriate laboratory or diagnostic study after change in patient status.\n"
+ ],
+ [
+  "在改變此患者的治療之前，以下哪項檢查最為適當？",
+  "- Prior to changing this patient’s therapy, which of the following is the most appropriate diagnostic study?\n"
+ ],
+ [
+  "病患照護：診斷—制定診斷：選擇最可能的診斷。",
+  "Patient Care: Diagnosis—Formulating the Diagnosis Selects the most likely diagnosis.\n"
+ ],
+ [
+  "以下哪一項是最可能的診斷？",
+  "- Which of the following is the most likely diagnosis?\n"
+ ],
+ [
+  "以下哪一項最有可能是初步診斷？",
+  "- Which of the following is the most likely working diagnosis?\n"
+ ],
+ [
+  "以下哪一項最能解釋這些發現？（選項將是診斷；正確答案可能是「正常發現」）",
+  "- Which of the following best explains these findings? (options would be diagnoses; correct answer could be “Normal finding(s)”)\n"
+ ],
+ [
+  "以下哪種感染因子最有可能是此患者肺炎的原因？",
+  "- Which of the following infectious agents is the most likely cause of this patient’s pneumonia?\n"
+ ],
+ [
+  "病患照護：診斷—預後/結果判斷，辨識病史、體檢或實驗室檢查結果中影響病患預後或結果，或決定治療方案的因素。",
+  "Patient Care: Diagnosis—Determining Prognosis/Outcome Recognizes factors in the history, or physical or laboratory study findings that affect patient prognosis or outcome, or that determine therapy.\n"
+ ],
+ [
+  "以下哪項病史因素最能顯示此患者的預後為不良/良好？",
+  "- Which of the following factors in this patient’s history most strongly indicates a poor/good prognosis?\n"
+ ],
+ [
+  "以下哪項因素對決定這位病人能否留在家中最為關鍵？",
+  "- Which of the following factors is most critical in determining this patient’s ability to remain at home?\n"
+ ],
+ [
+  "解讀實驗室或其他診斷檢查結果，並確定患者目前及未來的狀況。",
+  "Interprets laboratory or other diagnostic study results and identifies current/future status of patient.\n"
+ ],
+ [
+  "根據這些發現，這位病人最有可能發展為以下哪一項？",
+  "- Based on these findings, this patient is most likely to develop which of the following?\n"
+ ],
+ [
+  "根據這些發現，這位病人在 _________（時間段）內最有可能發展以下哪一項？",
+  "- Based on these findings, this patient is most likely to develop which of the following during _________ (period of time)?\n"
+ ],
+ [
+  "識別疾病的相關狀況，包括併發症或潛在併發症的指標。",
+  "Recognizes associated conditions of a disease, including complications, or indicators of potential complications.\n"
+ ],
+ [
+  "以下哪項是此患者目前病情最可能的併發症？",
+  "- Which of the following is the most likely complication of this patient’s current condition?\n"
+ ],
+ [
+  "若不接受治療，以下哪項最有可能在此患者身上發展？",
+  "- Without treatment, which of the following is most likely to develop in this patient?\n"
+ ],
+ [
+  "辨識疾病的自然史或病程特徵，包括特定患者的進展、嚴重程度、持續時間和傳播方式。",
+  "Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease for a specific patient.\n"
+ ],
+ [
+  "以下哪一項是此患者最可能的臨床進程？",
+  "- Which of the following is the most likely clinical course for this patient?\n"
+ ],
+ [
+  "最適合告知這位病患以下哪一項風險因素？",
+  "- It is most appropriate to inform this patient of which of the following risk factors?"
+ ]
+]

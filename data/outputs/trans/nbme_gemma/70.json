@@ -1,0 +1,62 @@
+[
+ [
+  "附錄 B：根據任務能力之範例引導語 醫學知識：應用基礎科學概念 基礎科學包含需要理解和應用基本科學原理以回答問題的內容。基礎科學問題不應僅憑臨床知識或模式識別（例如，提供一份症狀清單並詢問應開什麼藥）來回答。這些問題應需要臨床知識，以及在預臨床教育中可能學到的、並在臨床輪轉中強化的一項或多項基礎科學原理。",
+  "APPENDIX B: SAMPLE LEAD-INS BASED ON TASK COMPETENCIES Medical Knowledge: Applying Foundational Science Concepts Foundational (basic) science comprises items that require understanding and application of basic science principles to answer the question. Foundational science items should not be answerable based simply on clinical knowledge alone or on pattern recognition (eg, providing a list of symptoms and asking what drug to prescribe). These items should require clinical knowledge and also knowledge of one or more foundational science principles that would have likely been learned in preclinical education and hopefully reinforced during clinical rotations.\n"
+ ],
+ [
+  "病患照護：診斷—病因與機制，確定病因/感染源或易感因素，或在已知效應下，確定病因。",
+  "Patient Care: Diagnosis—Causes and Mechanisms Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.\n"
+ ],
+ [
+  "以下病原體最可能導致這位病患的狀況？",
+  "- Which of the following pathogens is the most likely cause of this patient’s condition?\n"
+ ],
+ [
+  "以下哪種病原體最有可能？",
+  "- Which of the following is the most likely infectious agent?\n"
+ ],
+ [
+  "這位病人最有可能透過下列哪種傳染途徑感染？",
+  "- This patient most likely acquired the infectious agent via which of the following modes of transmission?\n"
+ ],
+ [
+  "下列哪一項最有可能存在缺陷？",
+  "- This patient most likely has a defect in which of the following?\n"
+ ],
+ [
+  "以下哪一個是最可能導致這個現象的原因/機制？",
+  "- Which of the following is the most likely cause/mechanism of this effect?\n"
+ ],
+ [
+  "識別解釋或促成特定情況的表達或解決的潛在機制/途徑。",
+  "Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.\n"
+ ],
+ [
+  "以下哪一項最可能是造成此病人病況的潛在原因？",
+  "- Which of the following is the most likely underlying cause of this patient’s condition?\n"
+ ],
+ [
+  "以下哪一個是最可能解釋這位病患狀況的原因？",
+  "- Which of the following is the most likely explanation for this patient’s condition?\n"
+ ],
+ [
+  "以下哪種細胞類型最可能在該病灶的發展中發揮了主要作用？",
+  "- Which of the following cell types most likely played a primary role in the development of this lesion?\n"
+ ],
+ [
+  "以下免疫系統調節因子在患者目前病症的發病機制中扮演關鍵角色？",
+  "- Which of the following immune system mediators plays a critical role in the pathogenesis of this patient’s current condition?\n"
+ ],
+ [
+  "這位病人最有可能缺乏下列哪種酵素？",
+  "- This patient most likely has a deficiency in which of the following enzymes?\n"
+ ],
+ [
+  "以下哪種細胞激素最可能導致此病症？",
+  "- Which of the following cytokines is the most likely cause of this condition?\n"
+ ],
+ [
+  "以下哪種程序在該患者身上最有可能受損？",
+  "- Which of the following processes is most likely impaired in this patient?"
+ ]
+]

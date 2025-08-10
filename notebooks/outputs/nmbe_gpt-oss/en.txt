@@ -1,0 +1,277 @@
+APPENDIX B: SAMPLE LEAD-INS BASED ON TASK COMPETENCIES Medical Knowledge: Applying Foundational Science Concepts Foundational (basic) science comprises items that require understanding and application of basic science principles to answer the question. Foundational science items should not be answerable based simply on clinical knowledge alone or on pattern recognition (eg, providing a list of symptoms and asking what drug to prescribe). These items should require clinical knowledge and also knowledge of one or more foundational science principles that would have likely been learned in preclinical education and hopefully reinforced during clinical rotations.
+Patient Care: Diagnosis—Causes and Mechanisms Identifies the cause/infectious agent or predisposing factor(s) or, given an effect, determines the cause.
+- Which of the following pathogens is the most likely cause of this patient’s condition?
+- Which of the following is the most likely infectious agent?
+- This patient most likely acquired the infectious agent via which of the following modes of transmission?
+- This patient most likely has a defect in which of the following?
+- Which of the following is the most likely cause/mechanism of this effect?
+Identifies the underlying processes/pathways that account for, or contribute to, the expression or resolution of a given condition.
+- Which of the following is the most likely underlying cause of this patient’s condition?
+- Which of the following is the most likely explanation for this patient’s condition?
+- Which of the following cell types most likely played a primary role in the development of this lesion?
+- Which of the following immune system mediators plays a critical role in the pathogenesis of this patient’s current condition?
+- This patient most likely has a deficiency in which of the following enzymes?
+- Which of the following cytokines is the most likely cause of this condition?
+- Which of the following processes is most likely impaired in this patient?Recognizes or evaluates given clinical or physical findings to identify the underlying anatomic structure or physical location.
+- The most likely cause of the findings in this patient is damage to which of the following structures?
+- Which of the following structures is at greatest risk for damage during this procedure?
+- Which of the following nerves is most likely carrying the sensation for this patient’s pain?
+- The most likely cause of these findings is dysfunction of which of the following structures?
+- Which of the following developmental abnormalities is the most likely cause of the findings in this patient?
+Recognizes the mechanisms of action of various drugs; selects from an option set list of drugs based on mechanism of action.
+- Which of the following is the most likely mechanism of the beneficial effect of this drug?
+- Which of the following is the most appropriate management? (response options would be drug classes or mechanisms of action)
+- Which of the following is the most likely mechanism of action of the therapeutic effect of this drug?
+- The most appropriate medication for this patient will have which of the following mechanisms of action?
+Patient Care: Diagnosis—Obtaining and Predicting History and Physical Examination Knows signs/symptoms of selected disorders. Response options are signs and symptoms. The item asks which signs and symptoms are characteristic of the patient’s condition. Typically used when patient presents with the condition.
+- Which of the following signs/symptoms is most consistent with the underlying diagnosis in this patient?
+Knows individual’s risk factors for development of condition. Given current symptoms in presented history, identifies pertinent factor in the history. Typically used when patient presents with the condition.
+- Which of the following factors in this patient’s history most increased the risk for developing this condition?
+Given a specific problem, knows what to ask to obtain pertinent additional history. The response options should not be referenced in the vignette and should not include details that would be obtained during initial history-taking. If asking about information that was already obtained and is mentioned in the vignette, use the following lead-in.
+- It is most appropriate to obtain specific additional history regarding which of the following?Predicts the most likely additional physical finding; selects either the finding itself or the appropriate examination technique that would result in the finding. The options are findings or directed physical examination techniques.
+- The remainder of the physical examination is most likely to show which of the following? (ensure all options are portions of the physical examination that would not yet have occurred in the patient scenario)
+- It is most appropriate to direct the physical examination toward which of the following? (sample options: “Auscultation of the lungs,” “Palpation of the abdomen,” “Rotation of hip joints”)
+- Which of the following signs or symptoms is most indicative of the need for further studies?
+Patient Care: Diagnosis—Selecting and Interpreting Laboratory and Diagnostic Studies Selects most appropriate laboratory or diagnostic study, including neuropsychiatric testing, or study most likely to establish/confirm the diagnosis. Options can include “No further testing is indicated.”
+- Which of the following is the most appropriate diagnostic study at this time?
+- Which of the following is the most appropriate initial diagnostic study?
+- Which of the following is the most appropriate next step in evaluation?
+- Which of the following studies is most likely to establish a diagnosis?
+- Which of the following laboratory studies is most likely to confirm the diagnosis?
+- Which of the following studies is most appropriate to order for follow-up?
+- Which of the following studies is most appropriate to obtain periodically to monitor the patient’s long-term care?
+Interprets laboratory or other study findings. Response options are interpretations of the laboratory/diagnostic data.
+- Which of the following is the most likely explanation for these laboratory findings?
+- Based on these findings, this patient’s condition is most likely attributable to which of the following?
+Predicts the most likely laboratory or diagnostic study result. Response options are clinical studies or predicted study results.
+- Results of which of the following laboratory studies are most likely to be abnormal in this patient?
+- Measurement of serum electrolyte concentrations is most likely to show which of the following?
+- An x-ray of the _________  is most likely to show which of the following?
+- Arterial blood gas analysis is most likely to show which of the following sets of findings?Selects most appropriate laboratory or diagnostic study after change in patient status.
+- Prior to changing this patient’s therapy, which of the following is the most appropriate diagnostic study?
+Patient Care: Diagnosis—Formulating the Diagnosis Selects the most likely diagnosis.
+- Which of the following is the most likely diagnosis?
+- Which of the following is the most likely working diagnosis?
+- Which of the following best explains these findings? (options would be diagnoses; correct answer could be “Normal finding(s)”)
+- Which of the following infectious agents is the most likely cause of this patient’s pneumonia?
+Patient Care: Diagnosis—Determining Prognosis/Outcome Recognizes factors in the history, or physical or laboratory study findings that affect patient prognosis or outcome, or that determine therapy.
+- Which of the following factors in this patient’s history most strongly indicates a poor/good prognosis?
+- Which of the following factors is most critical in determining this patient’s ability to remain at home?
+Interprets laboratory or other diagnostic study results and identifies current/future status of patient.
+- Based on these findings, this patient is most likely to develop which of the following?
+- Based on these findings, this patient is most likely to develop which of the following during _________ (period of time)?
+Recognizes associated conditions of a disease, including complications, or indicators of potential complications.
+- Which of the following is the most likely complication of this patient’s current condition?
+- Without treatment, which of the following is most likely to develop in this patient?
+Recognizes characteristics of disease relating to natural history or course of disease, including progression, severity, duration, and transmission of disease for a specific patient.
+- Which of the following is the most likely clinical course for this patient?
+- It is most appropriate to inform this patient of which of the following risk factors?Patient Care: Management—Health Maintenance and Disease Prevention Knows risk factors for conditions amenable to prevention or detection in an asymptomatic patient or knows the potential condition itself.
+- Which of the following is the strongest predisposing factor in this patient for developing a chronic condition?
+- It is most appropriate to counsel this patient that he/she is at greatest risk for which of the following?
+- If untreated, this patient is at greatest risk for which of the following disorders?
+Knows pertinent incidence statistics and identifies patient groups at risk; knows incidence of symptomless/ dangerous disorders among various groups. Response options compare patient’s risk factors for disease with those of the general population.
+- Which of the following factors is most appropriate to consider in assessing the need for additional screening in this patient population?
+Knows common screening tests for conditions amenable to prevention or detection in an asymptomatic patient or population.
+- In addition to a [screening test] annually, which of the following screening studies is most appropriate?
+- Which of the following is the most appropriate screening test for this patient at this time?
+- At this time, which of the following is the most appropriate next step in the evaluation of this patient?
+(response options would be screening tests) Selects appropriate preventive agent or technique (eg, contraception, vaccines, vitamins). Knows timing of vaccinations.
+- Which of the following is the most appropriate recommendation for vaccination?
+- [To reduce the likelihood of recurrence,] it is most appropriate to (prescribe/administer) which of the following?
+- Which of the following is the most appropriate vaccine to administer at this time?
+Knows appropriate counseling (and reassuring, comforting) of patient or family regarding current and future problems, including risk factors related to present encounter. The response options focus on features and course of disease as they relate to a specific patient.
+- It is most appropriate to counsel this patient regarding which of the following?
+- Which of the following is the most appropriate management to prevent the spread of this patient’s illness?
+Educates patients on screening, health maintenance, and self-care options such as nutrition, weight loss, breast self-examinations, home blood pressure monitoring, or breast-feeding. The response options are a variety of patient actions.
+- Which of the following is the most appropriate recommendation?
+- It is most appropriate to advise this patient to do which of the following?Patient Care: Management—Selecting and Monitoring Pharmacotherapy Selects most appropriate pharmacotherapy. Response options are all drugs and can include “No pharmacotherapy at this time.” Drugs include substances such as vitamins and supplements.
+- Which of the following is the most appropriate pharmacotherapy at this time?
+- The most appropriate next step is to administer which of the following?
+Assesses patient adherence to treatment regimen, recognizes techniques to increase adherence to or understanding of the disease state, and knows how adherence may be affected by providing instructions with therapy. Options can include “No further testing is indicated.”
+- To assess adherence and therapeutic efficacy in this patient, which of the following studies is most appropriate to order after initiation of therapy?
+- Which of the following methods is most appropriate to assess adherence to treatment in this patient?
+Recognizes factors that alter drug requirements for a patient, such as disease, age, pregnancy, BMI, renal failure, liver disease, or gender. Response options are factors about the patient that affect the choice of a drug regimen.
+- Which of the following variables is most appropriate to consider in determining the appropriate dose of medication for this patient?
+- Which of the following factors is most likely to influence therapy for this patient?
+- Which of the following is most appropriate to consider before selecting pharmacotherapy?
+Knows adverse effects of various drugs or recognizes signs and symptoms of drug (and drug-drug) interactions resulting from polypharmacy in the therapeutic regimen and knows steps to prevent polypharmacy including laboratory studies to monitor pharmacotherapy. Vignette includes description of the simultaneous use of drugs prescribed by another provider, over-the-counter drugs, prescribed opioids and other Schedule IV medications taken illegally or in greater than prescribed doses, illegal opioids, alcohol, and certain foods.
+- Which of the following is the most likely cause of this patient’s symptoms?
+- Which of the following is the most likely complication of the addition of this medication?
+- Which of the following is the most likely explanation for this patient’s current condition?
+- The most likely cause of this patient’s condition is interaction between which of the following drugs?
+Knows contraindications of various medications.
+- Which of the following medications is contraindicated in this patient?
+- Which of the following medications is most likely to increase the risk for development/progression of _________  (diagnosis) in this patient?Knows modifications of a therapeutic regimen within the context of continuing care.
+- Which of the following is the most appropriate next step in pharmacotherapy?
+- Which of the following is the most appropriate change/modification in this patient’s pharmacotherapy?
+Knows appropriate monitoring to evaluate effectiveness of pharmacotherapy or to monitor for the adverse effects of pharmacotherapy in a patient who has not had a recurrence or progression of disease.
+- Which of the following studies is most appropriate to monitor the effectiveness of therapy in this patient?
+Patient Care: Management—Clinical Interventions/Treatments Knows most appropriate management of selected conditions, including recognizing use/misuse of medications, alcohol, or other substances. Response options would be a list of management steps.
+- Which of the following is the most appropriate next step in management?
+- Which of the following is the most appropriate initial management/recommendation?
+Knows immediate management or priority in management, specifically in emergency or acute cases. This objective is most appropriate in life-threatening emergencies or cases of potential organ failure.
+- Which of the following is the most appropriate immediate/initial/next step in management?
+- Which of the following is the priority in management?
+- Which of the following is the most critical factor in formulating a management plan for this patient?
+Knows most appropriate follow-up or monitoring approach regarding the management plan.
+- Which of the following is the most appropriate monitoring/follow-up plan?
+Knows current/short-term management of patients.
+- Which of the following is the most appropriate next step following treatment?
+- Which of the following is the most appropriate next step in monitoring this patient?
+Evaluates severity of patient condition in terms of need for referral for surgical treatments/procedures versus other nonsurgical options.
+- Which of the following findings in this patient indicates the need for surgical intervention/intubation/ transplantation/admission to another department?Knows appropriate surgical management. The response options are all surgical procedures.
+- Which of the following is the most appropriate surgical management?
+Knows preoperative/postoperative or procedural management.
+- Which of the following is the most appropriate postoperative management?
+- Which of the following is the most appropriate preoperative preparation?
+- Prior to the procedure (or specify the procedure), it is appropriate to first obtain/do which of the following?
+Knows indications for admission to the hospital or to other appropriate setting. Knows appropriate nonhospital health care settings, such as a nursing care facility, hospice care, or at-home care with assistance of health aide.
+- Placement in a/an _________  is recommended based on which of the following factors?
+- To which of the following inpatient facilities is it most appropriate to transfer this patient?
+Knows most appropriate discharge planning.
+- In discussing discharge plans with this patient, it is most appropriate to advise him/her of which of the following?
+- Before this patient is discharged, it is most appropriate to counsel him/her regarding which of the following?
+- Which of the following is the most appropriate goal for follow-up?
+Knows components of rehabilitation program, such as prostheses, psychosocial factors, or motor dysfunction.
+The response options are rehabilitation management steps.
+- Which of the following components of his/her overall care is most appropriate to consider?
+Knows appropriate use and procedures regarding hospice care.
+- Which of the following is the most appropriate step regarding hospice care for this patient?
+- Which of the following is the most appropriate next step?  (hospice referral is correct answer) Educates patient or family regarding self-care, such as breast-feeding, or at-home blood pressure measurement and glucose monitoring. The response options can be a variety of patient actions.
+- Which of the following is the most appropriate recommendation?
+- It is most appropriate to advise this patient to do which of the following?
+Knows relevant roles of allied health personnel.
+- The most appropriate next step is to arrange consultation with which of the following?
+- It is most appropriate to refer this patient to which of the following?Patient Care: Management—Selecting Clinical Interventions (Mixed Management) Selects most appropriate option from set of mixed management options (eg, mix of diagnostic studies, pharmacotherapy, procedures, or no intervention at this time, observation, referral).
+- Which of the following is the most appropriate next step?
+- Which of the following is the most appropriate initial step in management?
+Patient Care: Management—Monitoring/Surveillance for Disease Recurrence or Progression Knows the indications for surveillance for recurrence or progression of disease following treatment.
+- Which of the following is the most appropriate annual monitoring study?
+Knows how to monitor a chronic disease in a stable patient where a change in patient status might indicate a need to change therapy.
+- Which of the following is the most appropriate diagnostic study at this time?
+Knows most appropriate long-term treatment or management goals, including continued treatment of a known patient. In a patient with a chronic condition, knows preventive medicine.
+- Which of the following is the most appropriate long-term management?
+- It is most appropriate to advise this patient of which of the following long-term management goals?
+Communication and Interpersonal Skills
+- Which of the following is the most appropriate opening remark to this patient?
+- Which of the following is the most appropriate response by the provider?
+- Which of the following statements by the provider is most appropriate to...?Professionalism and Legal/Ethical Issues Knows the guidelines for obtaining informed consent for treatment including those for children and adolescents, third-party permission, and emergent situations.
+- Which of the following is the most appropriate method to facilitate patient informed consent?
+Recognizes need for third-party permission for treatment in medical emergencies.
+- In requesting an autopsy, consent must be given by which of the following individuals?
+Knows guidelines for treatment of minors with/without notification of parents.
+- Regarding obtaining consent for treatment today, which of the following is the most accurate conclusion for providing services to this patient?
+- Until the parents can be reached, which of the following is the most appropriate management?
+- Before examining this patient, informed consent needs to be obtained from which of the following individuals?
+- Which of the following is the most appropriate response to the request for services for this child/ adolescent?
+Knows definitions of competence and sanity.
+- Determination of this patient’s competency to make decisions should be based on which of the following factors?
+- Which of the following is the most significant indication that this patient may not have sufficient capacity for informed consent or refusal?
+- Which of the following factors or findings renders this patient incompetent to make health care decisions on her/his own behalf?
+- The information that is most decisive in determining this patient’s mental capacity to refuse treatment is which of the following?
+Knows the guidelines for involuntary admission (eg, third-party permission, court order).
+- Which of the following is the most appropriate next step? (answer is involuntary admission)
+- In considering commitment of this patient to _________ , which of the following is the most appropriate next step?
+Knows guidelines for such things as confidentiality of medical records (eg, regarding patient’s relatives, employer, insurance/legal agents), boundaries, privacy, and truth-telling.
+- Which of the following is the most accurate statement concerning the confidentiality of this patient’s medical record?Knows guidelines for provider/patient relationship.
+- Regarding this colleague’s behavior, which of the following is the most appropriate advice to this patient?
+Assesses degree of disclosure to terminally ill patients.
+- Which of the following is the primary consideration regarding informing this patient of his/her condition/ prognosis?
+Recognizes patient’s right to refuse treatment or testing (patient autonomy); knows issues of advance directives and living wills.
+- Which of the following is the most appropriate advice to the family regarding their wishes for this patient?
+- Given your knowledge of this patient and her past wishes, which of the following is the most appropriate recommendation?
+- In reaching an opinion about whether do-not-attempt-resuscitation status should be ordered, which of the following information has the highest priority?
+- The best method of ensuring that this patient’s wishes will be honored is to do which of the following?
+Assesses quality-of-life decisions (especially in elder patients).
+- In considering treatment options for this patient, which of the following is the most compelling consideration?
+- Which of the following is the most appropriate next step regarding this patient’s end-of-life needs?
+Knows appropriate prescriptive practices; knows appropriate use of opioids in terminally ill patients.
+- Which of the following is the most effective intervention to minimize this patient’s pain?
+Knows definition of and legal issues regarding brain death.
+- Which of the following is the most critical ethical consideration in deciding whether to withdraw life support in this patient?
+- Which of the following is the most accurate statement regarding the physician’s decision to discontinue life-sustaining interventions in this patient?
+- In order for a clinical diagnosis of brain death to be made in this child, documentation of which of the following is needed?
+Knows management of terminally ill patients related to treating chronic pain, and recognizes patient’s expression of fear of pain, injury, or death; knows how to comfort patient or family during crisis such as trauma or death.
+- Which of the following is most appropriate to manage this patient’s pain?
+- Which of the following is the most appropriate advice for this patient regarding his/her pain?
+- Which of the following is the most likely underlying cause of this change in behavior?
+- In addressing this patient’s (fear), which of the following is the most appropriate counseling?Knows guidelines for reporting findings to proper authorities, such as social services, police, medical society, or coroner.
+- Which of the following is the most appropriate action in patient care?
+Knows Good Samaritan laws.
+- Regarding your colleague’s liability associated with this patient’s actions at the scene of the collision, which of the following is the most accurate conclusion?
+Recognizes provider error and negligence.
+- With regard to the possibility that this situation represents medical malpractice, it is most critical to do which of the following?
+- The most appropriate response to this situation is to do which of the following?
+- After you document the error, the most appropriate management is to do which of the following?
+- Which of the following is the most appropriate response to this allegation?
+Recognizes and deals appropriately with impaired providers.
+- The most appropriate response to the licensing board is to recommend which of the following?
+- Which of the following is the most appropriate action? (where options describe dealing with impaired colleague) Systems-based Practice and Patient Safety Understands basic concepts and terminology, principles, and application of quality improvement science and outcome analysis.
+- Which of the following is the most appropriate description of the deviation from official procedure?
+Recognizes and optimizes human and environmental factors such as workplace design, standardization, and processes.
+- Which of the following is the most appropriate next step in designing a standard process for...?
+- Which of the following is most likely to improve patient satisfaction?
+- Which of the following strategies is most likely to achieve this goal?
+- Which of the following is the most appropriate next step by this hospital to improve its system of care?
+- Which of the following is the most appropriate initial recommendation by the task force?
+- Which of the following is most likely to improve outcomes in this situation?
+- Which of the following is most likely to decrease morbidity/mortality in this situation?Understands the role and characteristics of teams and communication strategies.
+- Which of the following is most appropriate to ensure the success of this project?
+- Which of the following actions is most likely to improve communication within this health care team?
+Anticipates, recognizes, analyzes, and mitigates risk (sources of error).
+- Which of the following is the most appropriate method to prevent/reduce the risk of transmission of this infection?
+- Which of the following is most likely to prevent recurrence of this type of error?
+- Which of the following is the most likely cause of the error?
+- Which of the following is most likely to decrease the likelihood of this error happening again?
+- Which of the following is the most appropriate next step?
+Evaluates, reports, and responds to near-misses and system errors.
+- Which of the following is the most appropriate action by the hospital staff immediately following the incident?
+Practice-based Learning—Applied Biostatistics and Clinical Epidemiology Understands and can apply principles of epidemiology and population health, including health status indicators, outbreak investigation, points of intervention.
+- Which of the following is the most likely effect on estimates of disease incidence and prevalence?
+- Which of the following is the annual incidence of _________  in this study?
+Understands and can apply principles of study design/flaws, such as bias and confounding, and methods to address these flaws; understands and can apply statistical principles.
+- The most likely cause of the study results is an error related to which of the following?
+- Which of the following features of this study is of greatest potential concern?
+- Which of the following potential flaws is most likely to invalidate this study?
+- Which of the following best describes this study design?
+- Which of the following is the major advantage of this study design?
+Understands and can apply principles of screening and other tests (eg, sensitivity, specificity, predictive value).
+- Which of the following is the most likely effect on sensitivity and specificity?
+- Which of the following is the most likely effect on the predictive value?- If the prevalence of the disease is increased to ___ %, which of the following would be the most likely outcome?
+- According to these results, which of the following represents the sensitivity of _________  for detecting _________  within this population?
+- According to these results, which of the following is closest to the predictive value of a positive test result?
+- If _________  were decreased to _________ , which of the following would be the most likely result?
+- Changing the screening population is most likely to have which of the following effects on this test?
+- In determining the appropriate diagnostic test for this patient, which of the following characteristics of the test is most appropriate to consider?
+- Which of the following is the most appropriate conclusion regarding the test?
+- Which of the following combinations of sensitivity and specificity would be characteristic of the most appropriate confirmatory/screening test?
+Understands use and interpretation of statistical principles and measures of association.
+- Which of the following conclusions can be drawn from these data?
+- Which of the following is the most appropriate conclusion about these data?
+- Which of the following is the most accurate interpretation of these data?
+- Based on these additional data, it is most appropriate to conclude which of the following?
+- Which of the following conclusions is most strongly justified based on this information/study?
+- Which of the following is the most accurate interpretation of the author’s conclusion regarding these study results?
+- Which of the following is the most likely explanation for this finding?
+- Which of the following represent the results of a meta-analysis?
+- In determining the validity of the meta-analysis, which of the following is the most appropriate factor to consider?
+- Which of the following is the best interpretation of this confidence interval?
+- Compared with _________ , which of the following is the relative risk for _________  in _________ ?
+- Which of the following is the estimated odds ratio of _________  in _________  compared with _________  ?
+- Which of the following is the best estimate of the relative risk of _________  for those with _________ compared with those with _________ ?
+- Which of the following is the relative risk for _________  5 years following _________ ?
+- Which of the following is the attributable (excess) risk per _________  patients for development of _________ 5 years following _________ ?
+- Which of the following variables is measured on a nominal scale?
+- Which of the following is the mean (or mode or standard deviation) in the sample shown in the graph?
+- Assuming a normal (Gaussian) distribution, which of the following best represents the median _________ for this group?- According to these results, which of the following is the number of patients who would need to be treated with the new drug to prevent mortality in one patient?
+- Which of the following is the number needed to treat with _________  instead of _________  to prevent _________  in one patient?
+- Based on these data, which of the following best represents the number of patients that must be treated with _________  to prevent one episode of _________ ?
+- The outcome of this study is statistically significant because of which of the following?
+- Which of the following statistics is most likely to establish the difference among the _________  of these groups?
+- Which of the following is the case-fatality rate for _________ ?
+- Which of the following is the expected number of false negatives (OR false positives) in this population of _________  women/men?
+- Which of the following best explains the lack of a significant difference in _________ ?
+- Which of the following is the likelihood of survival?
+Makes decisions about patient care based on results of studies or other written materials (eg, pharmaceutical advertisements, abstracts, results of literature searches).
+- Which of the following information from the literature is most relevant to the management of this patient?
+NOTES

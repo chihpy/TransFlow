@@ -1,0 +1,110 @@
+[
+ [
+  "若疾病的患病率提高到 ___%，以下哪一項最可能是結果？",
+  "- If the prevalence of the disease is increased to ___ %, which of the following would be the most likely outcome?\n"
+ ],
+ [
+  "根據這些結果，以下哪一項代表了 _________ 在此族群中偵測 _________ 的敏感度？",
+  "- According to these results, which of the following represents the sensitivity of _________  for detecting _________  within this population?\n"
+ ],
+ [
+  "根據這些結果，下列哪一項最接近陽性檢測結果的預測值？",
+  "- According to these results, which of the following is closest to the predictive value of a positive test result?\n"
+ ],
+ [
+  "如果 _________ 降低到 _________，以下哪一項最有可能是結果？",
+  "- If _________  were decreased to _________ , which of the following would be the most likely result?\n"
+ ],
+ [
+  "改變篩檢人群最有可能對此測試產生哪種影響？",
+  "- Changing the screening population is most likely to have which of the following effects on this test?\n"
+ ],
+ [
+  "在為此患者決定適當的診斷檢驗時，以下哪項檢驗特徵最適合考慮？",
+  "- In determining the appropriate diagnostic test for this patient, which of the following characteristics of the test is most appropriate to consider?\n"
+ ],
+ [
+  "以下哪一項是關於測試的最合適結論？",
+  "- Which of the following is the most appropriate conclusion regarding the test?\n"
+ ],
+ [
+  "以下哪一組靈敏度與特異度的組合最能代表最適合的確認/篩檢測試？",
+  "- Which of the following combinations of sensitivity and specificity would be characteristic of the most appropriate confirmatory/screening test?\n"
+ ],
+ [
+  "了解統計原則及相關性度量的使用與詮釋。",
+  "Understands use and interpretation of statistical principles and measures of association.\n"
+ ],
+ [
+  "從這些數據可以得出哪些結論？",
+  "- Which of the following conclusions can be drawn from these data?\n"
+ ],
+ [
+  "以下哪一項是對這些數據最合適的結論？",
+  "- Which of the following is the most appropriate conclusion about these data?\n"
+ ],
+ [
+  "以下哪一項對這些數據的解釋最為準確？",
+  "- Which of the following is the most accurate interpretation of these data?\n"
+ ],
+ [
+  "根據這些額外資料，最合適的結論是以下哪一項？",
+  "- Based on these additional data, it is most appropriate to conclude which of the following?\n"
+ ],
+ [
+  "以下哪項結論最有充分依據？",
+  "- Which of the following conclusions is most strongly justified based on this information/study?\n"
+ ],
+ [
+  "以下哪一項最準確地詮釋作者對這些研究結果的結論？",
+  "- Which of the following is the most accurate interpretation of the author’s conclusion regarding these study results?\n"
+ ],
+ [
+  "以下哪項最有可能解釋此發現？",
+  "- Which of the following is the most likely explanation for this finding?\n"
+ ],
+ [
+  "以下哪項代表元分析的結果？",
+  "- Which of the following represent the results of a meta-analysis?\n"
+ ],
+ [
+  "在評估元分析的有效性時，以下哪一項是最適合考慮的因素？",
+  "- In determining the validity of the meta-analysis, which of the following is the most appropriate factor to consider?\n"
+ ],
+ [
+  "以下哪一項是對此信賴區間的最佳解釋？",
+  "- Which of the following is the best interpretation of this confidence interval?\n"
+ ],
+ [
+  "與 _________ 相比，以下哪一項是 _________ 在 _________ 的相對風險？",
+  "- Compared with _________ , which of the following is the relative risk for _________  in _________ ?\n"
+ ],
+ [
+  "以下哪一項是 _________ 在 _________ 與 _________ 相較的估計比值比？",
+  "- Which of the following is the estimated odds ratio of _________  in _________  compared with _________  ?\n"
+ ],
+ [
+  "以下哪一項是對於______的人相較於______的人，______的相對風險的最佳估計？",
+  "- Which of the following is the best estimate of the relative risk of _________  for those with _________ compared with those with _________ ?\n"
+ ],
+ [
+  "以下哪一項是 _________ 5 年後的相對風險？",
+  "- Which of the following is the relative risk for _________  5 years following _________ ?\n"
+ ],
+ [
+  "以下哪一項是每 _________ 患者在 _________ 之後 5 年內發展 _________ 的可歸因（過量）風險？",
+  "- Which of the following is the attributable (excess) risk per _________  patients for development of _________ 5 years following _________ ?\n"
+ ],
+ [
+  "以下哪個變數是以名義尺度測量的？",
+  "- Which of the following variables is measured on a nominal scale?\n"
+ ],
+ [
+  "以下哪一項是圖中樣本的平均值（或眾數或標準差）？",
+  "- Which of the following is the mean (or mode or standard deviation) in the sample shown in the graph?\n"
+ ],
+ [
+  "假設正態（高斯）分佈，以下哪一項最能代表此組別的中位數 _________？",
+  "- Assuming a normal (Gaussian) distribution, which of the following best represents the median _________ for this group?"
+ ]
+]

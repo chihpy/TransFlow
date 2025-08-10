@@ -1,0 +1,110 @@
+[
+ [
+  "如果疾病的盛行率提高到___%，以下哪種情況最有可能發生？",
+  "- If the prevalence of the disease is increased to ___ %, which of the following would be the most likely outcome?\n"
+ ],
+ [
+  "根據這些結果，下列哪一項代表 _________ 對於在該人群中檢測 _________ 的靈敏度？",
+  "- According to these results, which of the following represents the sensitivity of _________  for detecting _________  within this population?\n"
+ ],
+ [
+  "根據這些結果，下列哪一項最接近正向檢測結果的預測值？",
+  "- According to these results, which of the following is closest to the predictive value of a positive test result?\n"
+ ],
+ [
+  "如果 _________ 降低到 _________，下列哪一個是最可能的结果？",
+  "- If _________  were decreased to _________ , which of the following would be the most likely result?\n"
+ ],
+ [
+  "改變篩檢人口最可能對此測試產生下列哪種影響？",
+  "- Changing the screening population is most likely to have which of the following effects on this test?\n"
+ ],
+ [
+  "在為這位病患確定合適的診斷測試時，下列哪一項測試的特徵最值得考慮？",
+  "- In determining the appropriate diagnostic test for this patient, which of the following characteristics of the test is most appropriate to consider?\n"
+ ],
+ [
+  "以下哪一個是關於該測驗最恰當的結論？",
+  "- Which of the following is the most appropriate conclusion regarding the test?\n"
+ ],
+ [
+  "以下哪種靈敏度和特異性組合，將會是最佳驗證/篩檢測試的特徵？",
+  "- Which of the following combinations of sensitivity and specificity would be characteristic of the most appropriate confirmatory/screening test?\n"
+ ],
+ [
+  "理解統計原則及關聯測度的應用與詮釋。",
+  "Understands use and interpretation of statistical principles and measures of association.\n"
+ ],
+ [
+  "以下哪一項結論可以從這些數據中得出？",
+  "- Which of the following conclusions can be drawn from these data?\n"
+ ],
+ [
+  "以下哪一個是關於這些數據最恰當的結論？",
+  "- Which of the following is the most appropriate conclusion about these data?\n"
+ ],
+ [
+  "以下哪一個是這些數據最準確的詮釋？",
+  "- Which of the following is the most accurate interpretation of these data?\n"
+ ],
+ [
+  "根據這些額外數據，最合適的結論是什麼？",
+  "- Based on these additional data, it is most appropriate to conclude which of the following?\n"
+ ],
+ [
+  "以下哪一項結論能根據此資訊/研究得到最強的 обоснование？",
+  "- Which of the following conclusions is most strongly justified based on this information/study?\n"
+ ],
+ [
+  "以下哪一個是作者對這些研究結果結論的最佳詮釋？",
+  "- Which of the following is the most accurate interpretation of the author’s conclusion regarding these study results?\n"
+ ],
+ [
+  "以下哪一個是造成此發現的最可能解釋？",
+  "- Which of the following is the most likely explanation for this finding?\n"
+ ],
+ [
+  "下列哪一項代表一篇統合性分析的結果？",
+  "- Which of the following represent the results of a meta-analysis?\n"
+ ],
+ [
+  "在評估薈萃分析的有效性時，下列哪一因素最適合考慮？",
+  "- In determining the validity of the meta-analysis, which of the following is the most appropriate factor to consider?\n"
+ ],
+ [
+  "以下哪一個是這個信賴區間的最佳詮釋？",
+  "- Which of the following is the best interpretation of this confidence interval?\n"
+ ],
+ [
+  "相較於 _________，以下哪一個是 _________ 在 _________ 的相對風險？",
+  "- Compared with _________ , which of the following is the relative risk for _________  in _________ ?\n"
+ ],
+ [
+  "以下哪一個是 _________ 在 _________ 與 _________ 相比的估計比率？",
+  "- Which of the following is the estimated odds ratio of _________  in _________  compared with _________  ?\n"
+ ],
+ [
+  "以下哪一個是對於有_________者與有_________者相比，_________的相對風險的最佳估計？",
+  "- Which of the following is the best estimate of the relative risk of _________  for those with _________ compared with those with _________ ?\n"
+ ],
+ [
+  "以下哪一個是 _________ 在 _________ 後 5 年的相對風險？",
+  "- Which of the following is the relative risk for _________  5 years following _________ ?\n"
+ ],
+ [
+  "以下哪一個是每 _________ 病患在 _________ 後 5 年內發生 _________ 的歸因風險（額外風險）？",
+  "- Which of the following is the attributable (excess) risk per _________  patients for development of _________ 5 years following _________ ?\n"
+ ],
+ [
+  "以下哪一個變數是以名義尺度測量？",
+  "- Which of the following variables is measured on a nominal scale?\n"
+ ],
+ [
+  "以下哪一個是圖表中樣本的平均數（眾數或標準差）？",
+  "- Which of the following is the mean (or mode or standard deviation) in the sample shown in the graph?\n"
+ ],
+ [
+  "假設遵循常態（高斯）分佈，下列哪一項最能代表此群體的眾數？",
+  "- Assuming a normal (Gaussian) distribution, which of the following best represents the median _________ for this group?"
+ ]
+]
