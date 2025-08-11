@@ -3,3 +3,5 @@
 data/parsed_txt/*
 notebooks/outputs/*
 data/outputs/trains/*
+.env
+data/cache/*
