@@ -1,0 +1,43 @@
+# Skin & Subcutaneous Tissue
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders and infestations
+#### bacterial
+##### cellulitis, erysipelas, impetigo, staphylococcal scalded skin syndrome; abscess, cutaneous, including septic abscess; anthrax (Bacillus anthracis); carbuncle; folliculitis; pilonidal cyst, infected; MSSA and MRSA skin infections; mycobacterial infections (eg, leprosy, draining sinus); scarlet fever (group A Streptococcus)
+#### viral
+##### herpes simplex type 1 & type 2, herpes zoster, Ramsay-Hunt syndrome; molluscum contagiosum; hand-foot-and-mouth disease; herpangina; parvovirus; chickenpox, erythema infectiosum (fifth disease), rubella, measles, roseola (exanthema subitum); verrucae vulgaris
+#### fungal (deep and superficial)
+##### candidiasis, skin; dermatophytosis, tinea corporis; dermatomycoses; diaper rash; onychomycosis
+#### parasitic
+##### cutaneous larva migrans; cutaneous leishmaniasis
+#### infestations, nonvenomous bites, stings
+##### scabies; lice; insect bites, including bed bugs
+### immunologic and inflammatory disorders
+#### papulosquamous and eczematous dermatoses
+##### psoriasis; lichen planus and lichenoid dermatoses; allergic/irritant contact dermatitis (eg, nickel); dermatoses caused by plants (poison ivy, poison oak)
+#### vesiculobullous disorders
+##### epidermolysis bullosa; dermatitis herpetiformis; pemphigus; pemphigoid; pyoderma gangrenosum
+#### urticaria, erythema, exanthema, and purpura
+##### erythema nodosum; atopic dermatitis; pityriasis rosea; urticaria; Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis
+#### autoimmune disorders
+##### vitiligo
+## Neoplasms
+### benign neoplasms, cysts and other skin lesions
+#### actinic keratoses; cysts, including epidermal; hemangiomas; lipoma; pigmented nevi; seborrheic keratosis; xanthomas
+### malignant neoplasms
+#### basal cell carcinoma; squamous cell carcinoma; melanoma, including genital; cutaneous T-cell lymphoma, mycosis fungoides
+## Integumentary disorders (hair and hair follicles, nails, sweat glands, sebaceous glands, oral mucous membranes)
+### disorders of the hair and hair follicles
+#### alopecia; seborrhea capitis/seborrheic dermatitis; tinea barbae and capitis
+### disorders of the nails (including ingrowing nail)
+### disorders of sweat and sebaceous glands
+#### acne vulgaris; hidradenitis suppurativa; hyperhidrosis; ichthyosis; rosacea
+## Oral disease
+### aphthous ulcers (stomatitis, canker sores); leukoplakia
+## Disorders of pigmentation
+### albinism; lentigo
+## Traumatic and mechanical disorders
+### animal bites (dogs, cats, etc); burns or wounds affecting the skin or subcutaneous tissue (eg, sunburn, other including blast injuries and burns); cauliflower ear; effects of ultraviolet light; keloids; tattoo; thermal injury; perniosis; frostbite; ulcers, decubitus
+## Congenital disorders
+### xeroderma pigmentosum; benign lesions in neonates, infants, children (eg, congenital nevi)
+## Adverse effects of drugs on skin and subcutaneous tissue
+### drug reactions, eruptions, including local reaction to vaccine

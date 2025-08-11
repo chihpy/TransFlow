@@ -1,0 +1,39 @@
+# Cardiovascular System
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders
+#### bacterial endocarditis, myocarditis
+### immunologic and inflammatory disorders
+#### atherosclerosis (eg, atherosclerosis of the aorta)
+## Neoplasms
+### myxoma, metastases
+## Dysrhythmias
+### premature beats (PACs, PVCs); atrial flutter/fibrillation; multifocal atrial tachycardia; paroxysmal tachycardias; ventricular tachycardia/fibrillation; wide complex tachycardia; torsades de pointes; bradycardias; atrioventricular block (first-, second-, third-degree); conduction disorder (LBBB, RBBB); cardiac arrest; sick sinus syndrome; prolonged QT syndrome; Wolff-Parkinson-White syndrome; carotid sinus hypersensitivity; pacemaker dysfunction, including failure to sense, capture
+## Heart failure
+### chordae tendineae rupture; congestive heart failure; cor pulmonale; diastolic dysfunction; systolic dysfunction; mitral valve dysfunction; heart failure secondary to myocardial infarction; high-output heart failure, including thyrotoxicosis-induced, anemia-induced; tachycardia-induced; cardiogenic pulmonary edema
+## Ischemic heart disease
+### acute coronary syndrome, acute myocardial infarction; angina pectoris, stable and unstable/coronary artery disease/coronary insufficiency; coronary artery spasm
+## Diseases of the myocardium
+### cardiomyopathy, dilated, including alcoholic, viral, takotsubo; cardiomyopathy, obstructive hypertrophic; cardiomyopathy, familial dilated; cardiomyopathy, restrictive; hypertensive heart disease, left ventricular hypertrophy, right ventricular hypertrophy; complications of myocardial infarction; nontraumatic tamponade post-myocardial infarction; papillary muscle rupture/dysfunction; ventricular free wall rupture; myocarditis
+## Diseases of the pericardium
+### chronic constrictive pericarditis; pericardial effusion; pericardial tamponade; acute pericarditis; pericarditis, following myocardial infarction, surgery, trauma
+## Valvular heart disease
+### valve disorders, mitral/aortic/tricuspid, pulmonic (eg, regurgitation, stenosis, prolapse, insufficiency, vegetation); functional murmurs; rheumatic heart disease; complications of artificial valves
+## Hypotension
+### orthostatic hypotension
+## Hypertension
+### elevated blood pressure reading without diagnosis of hypertension; essential hypertension; hypertensive emergency; secondary hypertension
+## Dyslipidemia
+### hypercholesterolemia; hyperlipidemia; hypertriglyceridemia; lipoproteins/lipoprotein lipase deficiency
+## Vascular disorders
+### disorders of the great vessels
+#### aneurysm, aortic (abdominal/thoracic), dissection, ruptured; aneurysm, iliac, other peripheral vascular, ruptured; aortoiliac disease
+### peripheral arterial vascular disease
+#### arterial embolus/thrombosis; arteriovenous fistula; atheroembolic disease; claudication; cholesterol emboli; hypertensive vascular disease; peripheral arterial disease; thromboangiitis obliterans
+### diseases of the veins
+#### deep venous thrombosis, venous thromboembolism; phlebitis/thrombophlebitis; varicose veins; venous insufficiency; stasis ulcers, stasis dermatitis
+## Traumatic and mechanical disorders
+### ventricular puncture; myocardial contusion; myocardial rupture; traumatic aortic dissection; traumatic tamponade
+## Congenital disorders, including disease in adults
+### anomalous left coronary artery; atrial septal defect; coarctation of the aorta; endocardial cushion defect; patent foramen ovale; patent ductus arteriosus; tetralogy of Fallot; transposition of the great vessels; ventricular septal defect
+## Adverse effects of drugs on the cardiovascular system
+### adriamycin; cocaine, amphetamine, PCP; ACE inhibitors, calcium channel blockers, alpha blockers, minoxidil

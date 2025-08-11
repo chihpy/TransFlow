@@ -1,0 +1,31 @@
+# Respiratory System
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious, immunologic, and inflammatory disorders of the upper airways
+#### acute upper respiratory infection; viral infections (adenovirus, coronaviruses, coxsackievirus, influenza virus, parainfluenza virus, rhinoviruses); sinusitis; nasopharyngitis; epiglottitis; Bordetella pertussis pneumonia; croup; acute laryngitis; acute laryngotracheitis; tracheitis; pharyngitis; streptococcal throat infections; tonsillitis; peritonsillar abscess; rhinitis, allergic, chronic; ulcers of nasal cavity/sinuses
+### infectious, immunologic, and inflammatory disorders of the lower airways
+#### hospital-acquired pneumonia; ventilator-associated pneumonia, community-acquired pneumonia, acute bronchiolitis; bronchiolitis obliterans with organizing pneumonia (BOOP); anthrax, pulmonary (Bacillus anthracis); aspiration pneumonia, pneumonitis; bronchitis, acute; bronchopneumonia; pneumonia (Burkholderia pseudomallei, Chlamydophila pneumoniae, Coxiella burnetii, Francisella tularensis, Haemophilus influenzae, Klebsiella pneumoniae, Legionella, Moraxella catarrhalis, Mycoplasma pneumoniae, Pseudomonas aeruginosa, Streptococcus, MSSA, MRSA, other gram‐negative bacteria); viral infection (eg, influenza A, B, adenovirus, H1N1, respiratory syncytial virus, parainfluenza virus); fungal infection (aspergillosis, including allergic bronchopulmonary aspergillosis and aspergilloma, histoplasmosis, coccidioidomycosis, Pneumocystis jirovecii); pulmonary tuberculosis; lung abscess; viral infection (eg, influenza A, B, adenovirus, respiratory syncytial virus, parainfluenza virus, avian influenza virus); fungal infection (aspergillosis, including allergic bronchopulmonary aspergillosis and aspergilloma, histoplasmosis, coccidioidomycosis, Pneumocystis jirovecii)
+## Neoplasms
+### benign neoplasms: upper airways (eg, vocal cord polyps, nasal polyps, juvenile papillomatosis); lungs and pleura (eg, solitary pulmonary nodule)
+### malignant neoplasms
+#### upper airways: lip, oral cavity, and pharynx; head and neck cancer; larynx; trachea
+#### lower airways and pleura: malignant neoplasms of bronchus and/or lung (squamous cell, adenocarcinoma, large cell, small cell, bronchial carcinoid tumors); malignant neoplasms of pleura (mesothelioma); secondary malignant neoplasms of lung; secondary malignant neoplasms of pleura
+### metastatic neoplasms including pleural
+## Obstructive airway disease
+### asthma, reactive airway disease; bronchiectasis; chronic airway obstruction; chronic obstructive pulmonary disease (COPD), chronic bronchitis, emphysema
+## Pneumoconiosis/fibrosing/restrictive pulmonary disorders/interstitial lung disease
+### pneumoconiosis; asbestosis; silicosis; silo-filler's lung, byssinosis, bagassosis, berylliosis; hypersensitivity pneumonitis; hypereosinophilic syndromes, Loeffler syndrome; interstitial pneumonia, usual (UIP), desquamative (DIP), nonspecific
+## Respiratory failure/respiratory arrest and pulmonary vascular disorders
+### acute respiratory distress syndrome (ARDS); pulmonary hypertension; pulmonary vascular disorders, arteriovenous fistula; pulmonary edema, pulmonary cause and unspecified; pulmonary embolism; air and fat embolism; respiratory failure due to enteral feeding
+## Metabolic, regulatory, and structural disorders
+### disorders of gas exchange; hypoventilation; hypoxia; ventilation-perfusion imbalance
+## Disorders of the pleura, mediastinum, and chest wall
+### chylothorax; costochondritis; empyema; hemothorax; mediastinitis; pleural effusion; pleuritis; pneumomediastinum; pneumothorax
+## Traumatic and mechanical disorders
+### upper airways
+#### epistaxis; barotrauma, sinus; laryngeal/pharyngeal obstruction; tracheoesophageal fistula; tracheal stenosis; tracheomalacia; trauma (eg, tracheal injury); foreign body (nose, pharynx, larynx, trachea); traumatic/mechanical disorders of the nasal cavity/sinuses (eg, septal perforation)
+### lower airways and pleura
+#### atelectasis; diaphragm/chest wall injury; drowning and near drowning; foreign body, upper and lower respiratory tract; penetrating chest wounds; pulmonary contusion; sleep apnea, obstructive and central; hypoventilation syndrome, obesity-hypoventilation syndrome
+## Congenital disorders
+### bronchogenic cysts; congenital cysts; congenital diaphragmatic hernia; pulmonary sequestration; immotile cilia syndrome
+## Adverse effects of drugs on the respiratory system
+### bleomycin, amiodarone; adverse effects of 100% oxygen; acute effects of tobacco/nicotine, inhalants, cocaine

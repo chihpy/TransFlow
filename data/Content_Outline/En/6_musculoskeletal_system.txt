@@ -1,0 +1,25 @@
+# Musculoskeletal System
+## Infectious, inflammatory, and immunologic disorders, including microbiologic and host response to insult
+### infectious disorders
+#### gangrene, dry and wet, clostridial myonecrosis (Clostridium perfringens); discitis; myositis, infective; necrotizing fasciitis; osteomyelitis; septic arthritis; spondylitis, tuberculous
+### immunologic disorders
+#### ankylosing spondylitis; dermatomyositis/polymyositis; juvenile idiopathic arthritis; rheumatoid arthritis, Felty syndrome; psoriatic arthropathy
+### inflammatory disorders
+#### adhesive capsulitis of shoulder (frozen shoulder syndrome); ankylosis/spondylopathy (inflammatory); bursitis; fasciitis; osteochondritis, osteochondritis dissecans; tendinitis, supraspinatus syndrome, enthesopathy of spine, elbow, ankle; temporomandibular joint disorders; fibrositis, myofascial pain syndrome; synovitis; tenosynovitis; myositis
+## Neoplasms
+### benign neoplasms (eg, ganglion cyst)
+### malignant neoplasms of bone (eg, osteosarcoma, sarcoma, leiomyosarcoma, rhabdosarcoma); metastases to bone, secondary malignant neoplasm of bone
+## Degenerative and metabolic disorders
+### degenerative/metabolic disorders of bone, tendon, and cartilage
+#### chondromalacia; disc degeneration, herniated disc; Legg-Calvé-Perthes disease; Osgood- Schlatter disease; osteodystrophy; osteomalacia; osteonecrosis (avascular), bone infarct; osteoporosis; osteopenia; osteitis deformans (Paget disease of bone); pathologic fracture; radiculopathies; spondylolisthesis/spondylosis (degenerative)
+### degenerative/metabolic disorders of joints
+#### gout, gouty arthritis, pseudogout; joint effusion; osteoarthritis
+### degenerative/metabolic disorders of muscles, ligaments, fascia
+#### Dupuytren contracture; muscle calcification and ossification; muscle wasting and diffuse atrophy; rhabdomyolysis
+## Traumatic and mechanical disorders
+### amputation and care of amputees; backache, including low back pain; blast injuries; compartment syndrome; contractures, hospital-acquired; contusions; dislocations; fractures; sprains, strains; kyphoscoliosis, scoliosis; rotator cuff syndrome; slipped capital femoral epiphysis; dislocation of hip
+## Congenital disorders
+### achondroplasia/dwarfism; disorders of limb development (HOX gene mutation, phocomelia); developmental dysplasia of the hip; dislocation of hip in infantile spinal muscular atrophy; genu valgum or varum; foot deformities (flat foot, valgus/varus deformities); osteogenesis imperfecta; McArdle disease; mitochondrial myopathies
+## Adverse effects of drugs on the musculoskeletal system
+### drug-induced myopathy (eg, steroids, statins, cocaine, AZT)
+### malignant hyperthermia

@@ -1,0 +1,48 @@
+# Gastrointestinal System
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders
+#### bacterial
+##### pseudomembranous colitis (Clostridium difficile); enteritis/enteric infections (includes gastroenteritis) (eg, Staphylococcus aureus, Escherichia coli, Listeria monocytogenes, Yersinia enterocolitica, Campylobacter species, Vibrio cholerae, Salmonella species, Shigella species, traveler's/infectious diarrhea); hepatic abscess, subhepatic abscess, subphrenic abscess; peritonitis, primary and secondary
+#### viral
+##### infectious esophagitis (eg, CMV, herpes); hepatitis A, B, C, D, E; coxsackievirus enteritis/colitis; Echovirus enteritis/colitis; rotavirus enteritis; mumps; gingivostomatitis, herpetic
+#### fungal
+##### thrush
+#### parasitic
+##### Cryptosporidium, Cyclospora, Entamoeba histolytica, Giardia, Isospora belli, Strongyloides stercoralis
+### immunologic and inflammatory disorders
+#### autoimmune hepatitis; celiac disease; eosinophilic esophagitis; granulomatous enteritis; inflammatory bowel disease, including Crohn disease, regional enteritis, microscopic colitis (collagenous and lymphocytic colitis), ulcerative colitis, toxic megacolon
+## Neoplasms
+### benign neoplasms, including polyps, cysts
+#### stomach; small intestine; colon, rectum, and anus, including polyps
+### malignant neoplasms and pre-malignant conditions
+#### oral cancer (eg, lips, mouth, tongue, salivary glands); esophageal, squamous and adenocarcinoma; Barrett esophagus; gastrinoma, Zollinger-Ellison syndrome; gastrointestinal carcinoid tumors; gastrointestinal stromal tumors; small intestine; stomach, adenocarcinoma, lymphoma, MALT; colon, rectum, anus; hereditary colon cancer syndromes, familial adenomatous polyposis (eg, Peutz-Jeghers syndrome, Gardner syndrome, Turcot syndrome); MUTYH-associated polyposis; gallbladder, cholangiocarcinoma, adenocarcinoma of the ampulla of Vater; liver, including hepatoma; peritoneal cancer, including metastatic studding with cancer; pancreas
+### metastatic neoplasms
+## Signs, symptoms, and ill-defined disorders
+### upper gastrointestinal bleeding; lower gastrointestinal bleeding; constipation; diarrhea; hematochezia; bright red rectal bleeding; melena; nausea, vomiting, rumination
+## Disorders of the oral cavity, salivary glands, and esophagus
+### oral cavity and salivary glands
+#### abscessed tooth; dental caries; malocclusion; disorders of the salivary glands (eg, stones, sialadenitis, parotitis)
+### esophagus
+#### achalasia and cardiospasm; dysphagia; diverticulum (eg, Zenker); esophageal periapical abscess without sinus; esophagitis/esophageal reflux (GERD); esophagitis, pill; Mallory-Weiss syndrome; paraesophageal (hiatal) hernia; stricture and stenosis of esophagus
+## Disorders of the stomach, small intestine, colon, rectum, anus
+### stomach
+#### dyspepsia/hyperacidity; gastric ulcer; gastritis; peptic ulcer; peptic ulcer perforation; gastroparesis
+### small intestine, colon
+#### appendicitis; angiodysplasia; diverticula, diverticulitis, diverticulosis; duodenitis, duodenal ulcer, peptic ulcer; gastroenteritis and colitis (noninfectious); granulomatous enterocolitis; Hirschsprung disease; impaction of intestine; intestinal obstruction/stricture; intussusception; irritable colon/irritable bowel syndrome; mesenteric ischemia/ischemic bowel/ischemic colitis; necrotizing enterocolitis; paralytic ileus; volvulus; malnutrition and malabsorption, including lactose intolerance, short bowel syndrome
+### rectum and anus
+#### abscess of anal and rectal regions; anal fissure; anal fistula; ulcer; fecal incontinence; hemorrhage (rectum, anus); proctitis; hemorrhoids; rectal prolapse
+## Disorders of the liver and biliary system, noninfectious
+### liver
+#### cirrhosis; Dubin-Johnson, Rotor syndromes; end-stage liver disease, including indications for transplantation; Gilbert syndrome, Crigler-Najjar syndrome; hepatic coma/hepatic encephalopathy; hepatitis, noninfectious; hepatitis, fatty liver, alcoholic; hepatorenal syndrome; hepatopulmonary syndrome; jaundice; non- alcoholic fatty liver disease; portal hypertension/esophageal varices
+### biliary system
+#### bile duct obstruction/cholestasis; cholangitis, including ascending; choledocholithiasis; cholelithiasis/cholecystitis; cholestasis due to parenteral nutrition; gallstone ileus; Mirizzi syndrome; primary biliary cirrhosis; primary sclerosing cholangitis
+## Disorders of the pancreas
+### pancreatitis, acute; pancreatitis, chronic; pancreatitis, hereditary; pancreatic cyst/pseudocyst; pancreatic duct obstruction; pancreatic insufficiency
+## Disorders of the peritoneal cavity
+### ascites
+## Traumatic and mechanical disorders
+### abdominal wall defects; adhesions, postsurgical; digestive system complications of surgery; post-gastric surgery syndromes (eg, blind loop syndrome, adhesions); duodenal tear; foreign body in digestive system; inguinal, femoral, and abdominal wall hernias; open wound, abdominal; perforation of hollow viscus and blunt trauma; perforation/rupture of esophagus (Boerhaave syndrome); umbilical hernia
+## Congenital disorders
+### annular pancreas, biliary atresia, cleft lip and palate, esophageal atresia, malrotation without volvulus, Meckel diverticulum, pyloric stenosis, tracheoesophageal fistula
+## Adverse effects of drugs on the gastrointestinal system
+### drug-induced changes in motility (chronic laxative use, opioids); drug-induced gastritis, duodenitis, peptic ulcer disease (NSAIDs); drug-induced hepatitis (eg, acetaminophen, isoniazid); drug-induced pancreatitis (eg, thiazide diuretics)

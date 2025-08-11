@@ -1,0 +1,20 @@
+# Endocrine System
+## Diabetes mellitus and other disorders of the endocrine pancreas
+### diabetes mellitus
+#### diabetes mellitus, type 1; diabetes mellitus, type 1.5; diabetes mellitus, type 2; diabetes mellitus, acute complications: hyperosmolar coma, hypoglycemic shock, ketoacidosis, including cerebral edema, associated electrolyte abnormalities; diabetes mellitus, chronic complications: gastrointestinal/gastroparesis, neurologic/neuropathy, ophthalmologic/retinopathy, peripheral vascular, renal/nephropathy, metabolic syndrome
+### hypoglycemia and islet cell disorders
+#### hypoglycemia (secondary to insulinoma, surreptitious insulin use, sepsis, liver failure); hyperglycemia (secondary to glucagonoma); hyperinsulinism; islet cell tumors/insulinoma/somatostatinoma; pancreatic neuroendocrine tumors
+## Thyroid disorders
+### cyst, nodule; euthyroid sick syndrome; goiter (euthyroid-normal thyroid function with goiter); hypothyroidism; hyperthyroidism, including thyrotoxicosis and thyroid storm; thyroiditis, including Hashimoto; Graves disease; neoplasms (benign cysts and nodules, thyroid cancer including papillary, follicular, medullary, and anaplastic); thyroid deficiency from pituitary disorder; infertility due to thyroid disease; secondary hypothyroidism and hyperthyroidism
+## Parathyroid disorders
+### hyperparathyroidism; hypoparathyroidism; metabolic bone disease
+## Adrenal disorders
+### corticoadrenal insufficiency (Addison disease); adrenal insufficiency, secondary; hypocortisolism; Cushing syndrome; hyperaldosteronism; neoplasms, benign and malignant (adrenal neuroblastoma, pheochromocytoma, adrenal carcinoma, adrenal adenoma, aldosteronoma, adrenal incidentaloma); delayed and precocious puberty; hypertensive endocrine disease
+## Pituitary disorders
+### acromegaly/gigantism; diabetes insipidus; galactorrhea not associated with childbirth; panhypopituitarism from any cause; pituitary apoplexy (eg, Sheehan syndrome); growth hormone deficiency; short stature; SIADH (inappropriate secretion of ADH [vasopressin]); neoplasm, benign and malignant (pituitary adenomas, craniopharyngioma, metastatic disease); prolactinoma and hyperprolactinemia, including infertility due to these disorders; hypogonadism, primary and secondary
+## Hypothalamic endocrine disorders
+## Multiple endocrine neoplasia (MEN1, MEN2)
+## Congenital disorders
+### disorders of sexual differentiation; congenital adrenal hyperplasia; androgen insensitivity/resistance syndrome; congenital hypothyroidism
+## Adverse effects of drugs on the endocrine system
+### drug, medicinal, and biologic substance effects; exogenous steroid suppression of adrenal glands, anabolic steroids

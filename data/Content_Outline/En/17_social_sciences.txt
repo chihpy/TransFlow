@@ -1,0 +1,125 @@
+# Social Sciences
+## Communication and interpersonal skills, including health literacy and numeracy, cultural competence
+### Patient interviewing, consultation, and interactions with the family (patient- centered communication skills)
+#### fostering the relationship (eg, expressing interest)
+#### information gathering (eg, exploring patient's reaction to illness)
+#### information provision (eg, providing information about working diagnosis)
+#### making decisions (eg, eliciting patient's perspectives)
+#### supporting emotions (eg, effective discussion with difficult patients)
+#### enabling patient behaviors (eg, education and counseling)
+### Use of an interpreter or surrogate
+## Medical ethics and jurisprudence, include issues related to death and dying and palliative care
+### Consent/informed consent to treatment, permission to treat (full disclosure, risks and benefits, placebos, alternative therapies, conflict of interest, and vulnerable populations)
+### Determination of medical decision-making capacity/informed refusal
+### Involuntary admission
+### Legal issues related to abuse (child, elder, and intimate partner)
+#### child protective services, foster care, immunizations
+#### legal requirements for reporting abuse or neglect/obligation to warn
+### Birth-related issues
+### Death and dying and palliative care
+#### life support
+#### advance directive, health care proxy, advance care planning
+#### brain death/diagnosing brain death/diagnosing death/pronouncing death
+#### organ donation
+#### hospice
+#### pain management, including ethical issues related to death and dying
+#### information sharing, counseling families
+#### psychosocial and spiritual counseling, fear and loneliness
+### Physician–patient relationship (boundaries, confidentiality including HIPAA, privacy, truth-telling, other principles of medical ethics [eg, autonomy, justice, beneficence, nonmaleficence])
+### Impaired physician, including duty to report impaired physician
+### Negligence/malpractice, including duty to report negligence and malpractice
+### Physician misconduct, including duty to report physician misconduct
+### Referrals
+### Cultural issues not otherwise coded
+## Systems-based practice (including health systems, public health, community, schools) and patient safety (including basic concepts and terminology)
+### Complexity/systems thinking
+#### Characteristics of a complex system and factors leading to complexity
+##### how complexity leads to error
+#### Health care/organizational behavior and culture
+##### environmental factors, workplace design and process; staffing; overcommitment, space, people, time, scheduling; standardization, reducing variance, simplification, metrics; safety culture; integration of care across settings; overutilization of resources (imaging studies, antibiotics, opioids); economic factors
+### Quality improvement
+#### Improvement science principles
+##### Variation and standardization: variation in process, practice; checklists, guidelines, and clinical pathways
+##### Reliability
+#### Specific models of quality improvement
+##### model for improvement: plan-do-study-act (PDSA), plan-do-check-act (PDCA)
+#### Quality measurement
+##### Structure, process, outcome, and balancing measures
+##### Measurement tools: run and control charts
+##### Development and application of system and individual quality measures
+### core measures; physician quality report system (PQRS); event reporting system
+#### Strategies to improve quality
+##### Role of leadership
+##### Principles of change management in quality improvement: specific strategies
+#### Attributes of high-quality health care
+##### High-value/cost-conscious care: overutilization of resources, including diagnostic testing, medications
+##### Equitable care: access
+##### Patient-centered care
+##### Timely care
+### Patient safety
+#### Patient safety principles
+##### Epidemiology of medical error
+##### Error categorization/definition: active vs latent errors; Swiss cheese model of error; preventable vs non-preventable; near miss events/safety hazards
+##### Causes of error
+### Patient factors: understanding of medication use; health literacy; economic status; cultural factors (eg, religion); failure to make appointments; socioeconomic status
+### Physician factors: deficiency of knowledge; judgment errors; diagnostic errors; fatigue, sleep deprivation; bias – cognitive, availability, heuristic, anchoring, framing
+### Human factors (eg, cognitive, physical, environmental)
+##### High reliability of organization (HRO) principles
+### change management and improvement science; conceptual models of improvement
+##### Reporting and monitoring for errors
+### event reporting systems
+##### Communication with patients after adverse events (disclosure/transparency)
+#### Specific types of error
+##### Transitions of care errors (eg, handoff communication including shift-to-shift, transfer, and discharge)
+### handoffs and related communication; discontinuities; gaps; discharge; transfers
+##### Medication errors
+### Ordering, transcribing, dispensing, administration (wrong quantity, wrong route, wrong drug)
+### Medication reconciliation
+### Mathematical error
+##### Procedural errors
+### Universal protocol (time out); wrong patient; wrong site; wrong procedure
+### Retained foreign bodies
+### Injury to structures
+#### paracentesis; bowel perforation; thoracentesis; pneumothorax; central venous/arterial line injuries; arterial puncture and bleeding and venous thrombosis; lumbar puncture bleeding; paralysis
+### Other errors
+#### anesthesia-related errors; mathematical errors
+##### Health care-associated infections
+### nosocomial infection – eg, surgical site, ventilator associated, catheter-related; handwashing procedures or inadequate number of handwashing stations; central line-associated blood stream infections; surgical site infections; catheter- associated urinary tract infections; ventilator-associated pneumonia
+##### Documentation errors
+### electronic medical record (including voice-recognition software errors); record keeping; incorrect documentation (eg, wrong patient, wrong date, copying and pasting, pre-labeling)
+##### Patient identification errors
+### Mislabeling: transfusion errors related to mislabeling
+### Verification/two identifiers: lack of dual validation, including verbal verification of lab results
+##### Diagnostic errors
+### errors in diagnostic studies; misinterpretation
+##### Monitoring errors
+### Cardiac monitoring/telemetry
+### Drug monitoring (warfarin, antibiotics)
+##### Device-related errors
+### Malfunction
+#### Programming error
+#### Incorrect use
+#### Strategies to reduce error
+##### Human factors engineering
+### Situational awareness
+### Hierarchy of effective interventions: forcing function; visual cues
+##### Error analysis tools
+### error/near miss analysis; failure mode and effects analysis; morbidity and mortality review; root cause analysis
+##### Safety behavior and culture at the individual level
+### hierarchy of health care, flattening hierarchy, speak up to power; afraid to report, fear; psychological safety; closed-loop communication
+##### Teamwork
+### principles of highly effective teams; case management; physician teams, physician-physician communication; interprofessional/intraprofessional teams; strategies for communication among teams, including system-provider communication, physician-physician communication (eg, consultations), interprofessional communication, provider-patient communication
+## Health care policy and economics
+### Health care policy
+#### Health care disparities
+##### race/ethnicity; numeracy/literacy; socioeconomic status; gender and sexual diversity/identity; immigration status; English language proficiency; incarcerated populations; disability
+#### Access to care
+##### critical access systems or hospitals
+#### Social justice
+### Health care economics/Health care financing
+#### Types of insurance
+##### Medicare, Medicaid, private insurance, self-pay
+#### Navigating the insurance system
+##### deductibles/co-pays; in-/out-of-network; preferred providers
+#### Reimbursement issues affecting safety and quality
+##### emergency services – EMTALA; pay-for-performance

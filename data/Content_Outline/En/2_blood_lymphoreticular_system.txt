@@ -1,0 +1,38 @@
+# Blood & Lymphoreticular System
+## Infectious and immunologic, including microbiologic and host response to insult
+### infectious disorders
+#### bacterial
+#### viral: hemorrhagic fever (Ebola virus, Marburg virus); chikungunya; dengue fever; Zika virus disease
+#### parasitic: malaria (Plasmodium species); babesiosis (Babesia species)
+### primary infections of lymphoid tissue
+#### lymphadenitis (viral, bacterial, fungal, parasitic); lymphangitis; buboes, bubonic plague (Yersinia pestis); cat-scratch disease (Bartonella henselae)
+### immunologic and inflammatory disorders
+#### cryoglobulinemia, essential mixed cryoglobulinemia; autoimmune hemolytic anemia; paroxysmal nocturnal hemoglobinuria; thrombotic thrombocytopenic purpura; hemolytic uremic syndrome
+## Neoplasms
+### leukemia, acute (ALL, AML); leukemia, chronic (CLL, CML); lymphomas, Hodgkin disease, non-Hodgkin lymphoma, Burkitt lymphoma, T-cell lymphoma; multiple myeloma, dysproteinemias, monoclonal gammopathy of unknown significance (MGUS); myelofibrosis; myelodysplastic syndrome, myelodysplasias; other immunoproliferative neoplasms (eg, Waldenstrom macroglobulinemia)
+## Anemia, cytopenias, and polycythemia anemias
+### decreased production
+#### anemia of chronic disease
+### hemolysis
+#### glucose 6-phosphate dehydrogenase deficiency; pyruvate kinase deficiency
+### disorders of hemoglobin, heme, or membrane
+#### disorders of red cell membranes; hereditary spherocytosis, elliptocytosis; methemoglobinemia, congenital; sickle cell disease; sideroblastic anemia; thalassemias
+### other causes of anemia
+#### blood loss, acute and chronic as a cause of anemia
+### cytopenias
+#### aplastic anemia; leukopenia; neutropenia, cyclic neutropenia, agranulocytosis; pancytopenia; thrombocytopenia, quantitative; immune thrombocytopenic purpura (ITP)
+### cythemias
+#### leukocytosis; polycythemia vera; secondary polycythemia
+## Coagulation disorders (hypocoagulable and hypercoagulable conditions)
+### hypocoagulable
+#### disseminated intravascular coagulation; hemophilia, congenital; factors VIII [hemophilia A] and IX [hemophilia B]; hypofibrinogenemia; von Willebrand disease; platelet dysfunction, qualitative
+### hypercoagulable
+#### heparin-induced thrombocytopenia; other coagulopathies (eg, homocysteinemia, hypoplasminogenemia, antithrombin III, protein C/protein S deficiency, Factor V Leiden, anticardiolipin antibodies, lupus anticoagulant, prothrombin G20210A mutation)
+### reactions to blood components
+#### ABO incompatibility/anaphylaxis; Rh incompatibility/anaphylaxis; hemolysis, delayed; transfusion reaction; transfusion contaminated with bacteria; transfusion-related acute lung injury (TRALI); anaphylactoid reaction (IgA deficiency)
+## Traumatic, mechanical, and vascular disorders
+### mechanical injury to erythrocytes (eg, cardiac valve hemolysis)
+### disorders of the spleen
+#### splenic rupture/laceration; splenic infarct; splenic abscess; effects/complications of splenectomy (eg, sepsis due to encapsulated bacteria); hypersplenism
+## Adverse effects of drugs on the hematologic and lymphoreticular systems
+### antiplatelet drugs; antithrombin drugs (eg, dabigatran); chemotherapeutic agents; inhibitors of coagulation factors; methemoglobinemia, acquired; propylthiouracil; tumor lysis syndrome; warfarin

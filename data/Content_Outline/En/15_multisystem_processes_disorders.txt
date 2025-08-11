@@ -1,0 +1,68 @@
+# Multisystem Processes & Disorders
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders
+#### bacterial
+##### brucellosis (Brucella spp); leptospirosis (Leptospira interrogans); Lyme disease (Borrelia burgdorferi); melioidosis (Burkholderia pseudomallei); miliary (disseminated) tuberculosis (Mycobacterium tuberculosis); tularemia (Francisella tularensis); toxic shock syndrome; Q fever (Coxiella burnetii); anaplasmosis and ehrlichiosis (Anaplasma and Ehrlichia species); rickettsiosis (Rocky Mountain spotted fever [Rickettsia rickettsii])
+#### viral
+##### infectious mononucleosis (Epstein-Barr virus); cytomegalovirus infection; yellow fever; human herpesvirus 8 (HHV-8)
+#### fungal
+##### blastomycosis (Blastomyces dermatitidis); candidiasis (Candida albicans); coccidioidomycosis (Coccidioides immitis/posadasii); histoplasmosis (Histoplasma capsulatum)
+#### parasitic
+##### schistosomiasis (Schistosoma); leishmaniasis (Leishmania spp), visceral (kala-azar); trypanosomiasis/Chagas disease, acute and chronic (Trypanosoma)
+### immunologic and inflammatory disorders
+#### acute rheumatic fever; autoimmune arteritis/vasculitis; Behçet syndrome; Churg-Strauss syndrome; eosinophilic granuloma, histiocytosis, Langerhans cell histiocytosis; Goodpasture syndrome; IgA vasculitis (formerly Henoch-Schönlein purpura); Kawasaki disease; mixed connective tissue disease; polyangiitis; polyarteritis nodosa; polyglandular autoimmune syndrome, type 1; polymyalgia rheumatica, temporal arteritis; Raynaud disease/Raynaud syndrome; reactive arthritis (formerly Reiter disease), including Reiter arthritis; scleroderma (systemic sclerosis); Sjögren syndrome; systemic lupus erythematosus; Takayasu arteritis; granulomatosis with polyangiitis (formerly Wegener granulomatosis); familial Mediterranean fever; sarcoidosis, Lofgren syndrome
+## Neoplasms and related disorders
+### paraneoplastic syndromes
+#### endocrine (eg, SIADH, Cushing syndrome, hypercalcemia of malignancy [parathyroid‐related protein and paraneoplastic syndrome with hypercalcemia]); hematologic (polycythemia, nonbacterial thrombotic endocarditis); neurologic (myasthenic syndrome, paraneoplastic cerebellar degeneration, limbic encephalitis, pure sensory neuropathy, anti-NMDA receptor encephalitis); mucocutaneous (eg, acanthosis nigricans); musculoskeletal (eg, pulmonary osteoarthropathy, polymyositis); other (membranous glomerulonephritis)
+### inherited cancer syndromes
+#### DNA repair abnormalities (eg, Fanconi anemia); hereditary nonpolyposis colorectal cancer (gastrointestinal and female reproductive)
+## Signs, symptoms, and ill-defined disorders
+### arthralgias; abdominal pain; chest pain; cough; dizziness, light-headedness, syncope, including breath- holding spells with syncope; dyspnea, shortness of breath; edema, anasarca; fatigue; fever of unknown origin; frailty; hemoptysis; pain management (in a nonaddiction, nonpalliative-care setting, including appropriate opioid prescribing practices); joint pain; lymphedema; palpitations; pruritus; unexpected weight gain/weight loss
+## Nutrition
+### protein-calorie malnutrition (kwashiorkor, marasmus)
+### vitamin deficiencies and/or toxicities
+#### vitamin A; vitamin B; vitamin B1, thiamine (eg, Wernicke- Korsakoff syndrome, beriberi); vitamin B3, niacin; vitamin B6, pyridoxine; vitamin B9, folic acid; vitamin B12, cobalamins (pernicious anemia); vitamin C (scurvy); vitamin D (rickets); vitamin E; vitamin K
+### mineral deficiencies and/or toxicities
+### obesity
+### enteral/parenteral nutrition (TPN)
+## Toxins and environmental extremes
+### physical and associated disorders
+#### temperature (eg, hypothermia, hyperthermia, heat stroke)
+#### radiation (eg, radon, uranium mining, imaging studies)
+#### thermal injury, burns, electrocution, lightning
+#### decreased atmospheric pressure, high-altitude sickness increased water pressure (nitrogen narcosis)
+### chemical including Gulf War illness
+#### gases, vapors, smoke inhalation
+#### agricultural hazards (eg, pesticides, green tobacco poisoning, anhydrous ammonia, Agent Orange)
+#### volatile organic solvents metals (eg, lead)
+#### other chemical agents (eg, ethylene glycol, carbon tetrachloride, methanol; BPA)
+#### principles of poisoning and therapy (eg, acetylsalicylic acid [ASA], acetaminophen)
+## Venomous bites and stings
+### hymenoptera bites and stings; scorpion bites; snake bites; spider bites; jellyfish stings
+## Fluid, electrolyte, and acid-base balance disorders
+### fluid volume and electrolyte/ion disorders: fluid volume disorders; dehydration; hypovolemia; volume overload; electrolyte disorders; hyponatremia, hypernatremia; hypokalemia, hyperkalemia; hypocalcemia, hypercalcemia; hypophosphatemia, hyperphosphatemia; hypomagnesemia
+### acid-base disorders: metabolic acidosis; metabolic alkalosis; respiratory acidosis; respiratory alkal sis; mixed acid-base disturbances
+## Abuse
+### child, nonaccidental trauma/inflicted head trauma/factitious disorder by proxy
+### intimate partner abuse, sexual, emotional, and physical including injuries related to abuse (eg, rib fractures)
+### elder abuse, sexual, emotional, and physical including injuries related to abuse (eg, rib fractures)
+### sexual assault
+## Multiple trauma
+### prioritization, blast injury involving more than one organ system
+## Shock
+### shock, cardiogenic, hypovolemic, neurogenic, septic, sepsis, bacteremia, systemic inflammatory response syndrome (SIRS), refractory, multiorgan dysfunction syndrome: meningococcemia
+## Genetic, metabolic, and developmental disorders
+### multifactorial
+#### VATER/VACTERL association; association syndromes
+### large genomic changes
+#### Beckwith-Wiedemann syndrome; Down syndrome; Prader-Willi syndrome
+### enzymatic/metabolic
+#### alpha-1 antitrypsin deficiency; porphyria; inborn errors of metabolism (eg, maple syrup urine disease, diseases involving urea cycle); storage diseases (eg, Fabry disease, Tay-Sachs disease, glycogen storage disease, mucopolysaccharidoses)
+### structural protein disorders
+#### amyloidosis; Ehlers-Danlos syndrome; immotile cilia syndrome (Kartagener syndrome; primary ciliary dyskinesia); Marfan syndrome
+### intracellular/extracellular transport receptors
+#### cystic fibrosis; hemochromatosis; Wilson disease
+### triplet repeat/RNA disorders
+#### fragile X syndrome
+## Adverse effects of drugs on multisystem disorders
+### drug-induced electrolyte abnormalities and acid base-disorders (eg, albuterol; prednisone; diuretics; alcohol; drugs inducing polydipsia, SIADH, or diabetes insipidus)

@@ -1,0 +1,19 @@
+# Immune System
+## Disorders associated with immunodeficiency
+### deficiency primarily of humoral immunity
+#### common variable immunodeficiency; hyper IgM syndrome; hypogammaglobulinemia/agammaglobulinemia, X-linked (Bruton); selective immunodeficiency (eg, IgA, IgM, IgE)
+### deficiency/dysfunction primarily of cell-mediated immunity
+#### adenosine deaminase deficiency; DiGeorge (22q11.2 deletion) syndrome; severe combined immunodeficiency disease (SCID); Wiskott-Aldrich syndrome; granulomatosis; allergic reactions/skin
+### complement deficiency
+#### alternative pathway component deficiency (C2, C3b, C3bB, C36B6); classical pathway component deficiency (C1q, C1r, C1-C5); terminal component deficiency (C5b-C9; terminal complement complex); C1 esterase inhibitor deficiency, hereditary angioedema; mannosebinding lectin (MBL) deficiency; membrane attack complex deficiency
+### deficiency of phagocytic cells and natural killer cells
+#### Chediak-Higashi disease; chronic granulomatous disease and other disorders of phagocytosis; leukocyte adhesion deficiency
+## HIV/AIDS
+### HIV1 and HIV2; AIDS; AIDS complications (eg, neuropathy, dementia, renal insufficiency); immunology of AIDS; immune reconstitution syndrome (IRS); secondary infections; noninfectious complications (eg, Kaposi sarcoma)
+## Immunologically mediated disorders
+### hypersensitivity reactions
+#### type 1, 2, 3, including anaphylaxis; type 4; drug reactions; serum sickness
+### transplantation
+#### rejection; graft-versus-host disease
+## Adverse effects of drugs on the immune system
+### Jarisch-Herxheimer reaction; drugs affecting the immune system (eg, prednisone, azathioprine, cyclosporine, methotrexate, monoclonal antibody drugs [eg, abciximab, adalimumab; bevacizumab, infliximab, omalizumab, rituximab]); vaccine adverse effects

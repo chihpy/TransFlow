@@ -1,6 +1,7 @@
 """
 """
 import os
+import hashlib
 from tqdm import tqdm
 from utils import json_load, json_dump
 from langchain_core.prompts import ChatPromptTemplate
@@ -17,8 +18,6 @@ def get_message():
         'human', 'input: {query}'
     ])
     return prompt
-
-import hashlib
 
 def string_to_id(s: str) -> str:
     """把字串穩定地轉成ID（SHA-256 十六進位）。"""

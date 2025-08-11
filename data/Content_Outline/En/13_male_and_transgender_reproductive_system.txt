@@ -1,0 +1,16 @@
+# Male and Transgender Reproductive System
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders
+#### balanitis; epididymitis; orchitis; prostatitis; sexually transmitted infections and exposure; chancroid (Haemophilus ducreyi); genital herpes; gonorrhea (Neisseria gonorrhoeae); human papillomavirus infection, genital/venereal/anal warts, condylomata acuminata; lymphogranuloma venereum (Chlamydia trachomatis); syphilis (Treponema pallidum); trichomoniasis (Trichomonas vaginalis); urethritis, chlamydial and nonchlamydial, nongonococcal
+### immunologic and inflammatory disorders
+#### autoimmune hypogonadism
+## Neoplasms
+### malignant neoplasms, penile, prostate, testicular, breast
+## Metabolic and regulatory disorders, including sexual dysfunction
+### erectile dysfunction, impotence; infertility, male factor; male sexual dysfunction; premature ejaculation
+## Traumatic and mechanical disorders
+### benign prostatic hyperplasia/hypertrophy; circumcision, including complications; epididymal cyst; hydrocele (including neonatal hydrocele); injuries, wounds, and burns to male genitalia, including blast injuries; penile laceration, penile fracture, Peyronie disease; phimosis; scrotal laceration; spermatocele; testicular rupture/avulsion/laceration; torsion of testis; urethral laceration/disruption; varicocele
+## Congenital disorders
+### hypospadias; Klinefelter syndrome; undescended testicle
+## Adverse effects of drugs on the male reproductive system
+### alcohol; androgens, testosterone; antipsychotics, antidepressants including selective serotonin reuptake inhibitors; beta-adrenergic blockers; diuretic-including thiazides; drug-induced priapism (eg, trazodone); finasteride, dutasteride; sildenafil, tadalafil, vardenafil; marijuana; nitric oxide reductase inhibitors

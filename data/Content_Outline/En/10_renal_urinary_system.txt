@@ -1,0 +1,30 @@
+# Renal & Urinary System
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders
+#### upper urinary tract
+##### granulomatous pyelonephritis; perinephric abscess; pyelonephritis; pyonephrosis; renal abscess; renal tuberculosis
+#### lower urinary tract and urinary tract infections of unspecified location
+##### cystitis; chlamydial and nonchlamydial
+### immunologic and inflammatory disorders
+#### upper urinary tract
+##### glomerular disorders: Alport syndrome; glomerular disease due to hepatitis B, C; glomerulonephritis, including poststreptococcal; IgA nephropathy; lupus nephritis; minimal change disease; nephrotic syndrome; thin basement membrane disease
+##### tubular interstitial disease: acute tubular necrosis (ATN); acute interstitial nephritis; papillary necrosis; HIV nephropathy
+#### lower urinary tract
+##### interstitial cystitis
+## Neoplasms
+### benign neoplasms and cysts
+#### polycystic kidney disease
+### malignant neoplasms
+#### renal (eg, Wilms tumor/nephroblastoma, renal cell carcinoma, renal tumors associated with congenital/hereditary conditions); urinary bladder and collecting system
+## Signs, symptoms, and ill-defined disorders
+### dysuria; hematuria; oliguria, anuria; proteinuria
+## Metabolic and regulatory disorders
+### acute kidney injury; renal insufficiency; azotemia, uremic syndrome; chronic kidney disease, including end-stage renal disease; cystinuria; Fanconi syndrome; hypertensive renal disease (renal complications of hypertension); renal calculi, ureteral calculi, nephrolithiasis; renal tubular acidosis
+## Vascular disorders
+### renal artery stenosis (atherosclerosis, fibromuscular dysplasia, nephrosclerosis); renal vein thrombosis; renal infarction
+## Traumatic and mechanical disorders
+### bladder rupture; neurogenic bladder; obstructive uropathy; posterior urethral valves; renal laceration; renal vascular injury; ureteral laceration/avulsion/disruption; urethral diverticulum; obstruction/stricture/prolapse, urethral/ureteral, vaginal walls, uterine, uterovaginal; urinary incontinence, including secondary enuresis; vesicoureteral reflux
+## Congenital disorders
+### double ureters/ureteral duplication/double collecting system; horseshoe kidney; hydronephrosis/reflux; renal agenesis, renal hypoplasia, renal dysplasia; single kidney
+## Adverse effects of drugs on the renal and urinary system
+### ACE inhibitors; aminoglycosides; amphotericin B; cisplatin; furosemide; gadolinium (nephrogenic systemic fibrosis); heroin; iodinated contrast dye; lithium; NSAIDs; penicillins; sulfa drugs; tenofovir; drug- induced urinary retention

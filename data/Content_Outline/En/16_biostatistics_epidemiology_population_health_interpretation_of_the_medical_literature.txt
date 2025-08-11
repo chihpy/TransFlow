@@ -1,0 +1,72 @@
+# Biostatistics, Epidemiology/Population Health, & Interpretation of the Medical Literature
+## Epidemiology/population health
+### Measures of disease frequency
+#### incidence/prevalence
+### Measures of health status
+#### rates, crude and adjusted; reproductive rates (eg, maternal mortality, neonatal/infant/under-5 mortality); mortality, morbidity; standardization; life expectancy, health-adjusted life expectancy; population attributable risk (PAR), population attributable risk percent (PAR%); risk factors
+### Survival analysis interpretation (eg, Kaplan-Meier curve)
+### Composite health status indicators, measures of population impact
+#### years of potential life lost; quality-adjusted life years; disability-adjusted life years; standardized mortality ratio
+### Population pyramids and impact of demographic changes
+### Disease surveillance and outbreak investigation
+#### disease reporting; response to public health advisory, health promotion; recognition of clusters
+### Communicable disease transmission
+#### attack rate; herd immunity; reportable diseases; vaccine effectiveness
+### Points of intervention
+#### primary, secondary; community level (eg, cigarette taxes, soda taxes, smoke-free cities, buildings: restaurants, public buildings); school policies; access, healthy food, transportation, clean air, safe environments
+## Study design, types and selection of studies (includes dependent/independent variables)
+### Descriptive studies (case report [one person]/case series [more than one])
+### Analytical studies: observational
+#### community surveys; cross-sectional (individuals)
+#### ecological (populations); case control; retrospective and prospective cohort
+### Analytical studies: interventional
+#### clinical trial (randomized controlled trial; double-blind; placebo-controlled; noninferiority/equivalence trials); community intervention
+### Systematic reviews and meta-analysis
+#### potential uses; estimation of effect sizes; heterogeneity; publication bias; forest plots, funnel diagrams; risk of bias, bias risk scale
+### Obtaining and describing samples, matching, inclusion/exclusion criteria, selecting appropriate controls for studies, lack of controls, concealed allocation, randomization, stratification
+### Methods to handle noncompliance
+#### loss to follow-up; intention-to-treat analysis
+### Qualitative analysis
+## Measures of association
+### Relative risk
+### Odds ratio, hazard ratio
+### Other measures of association
+#### number needed to treat/harm; absolute risk (AR), absolute risk percent (AR%); population attributable risk (PAR), population attributable risk percent (PAR%)
+## Distributions of data
+### measures of central tendency; measures of variability; regression to mean; normal distribution; nominal measurement
+## Correlation and regression, uses and interpretation
+### correlation coefficients; multiple regression
+## Principles of testing and screening
+### Properties of a screening test
+#### validity, accuracy, reliability; criteria for a screening test; confirmatory testing; appropriateness; lead-time bias, length bias; screening vs diagnostic tests
+### Sensitivity and specificity; predictive value, positive and negative
+### ROC curves
+### Probability
+#### theory (independence, product, addition rules); decision trees; likelihood ratios (application of Bayes theorem); posttest, pretest
+## Study interpretation, drawing conclusions from data
+### Causation
+#### hypothesis-generating vs hypothesis-driven testing; causal criteria, temporality, temporal sequence, dose-response relationship; reverse causality
+### Chance
+#### null hypothesis, Type I error and alpha level (multiple comparisons, random error/chance)
+#### sample size and Type II error, beta, power
+#### selection and interpretation of basic tests of statistical significance: chi-square; confidence intervals; p-values; t-test
+#### a priori vs post hoc analysis: subgroup analysis; error rate; affect types
+### Interpretation of graphs/tables and text
+### Bias, confounding, and threats to validity (includes methods to address)
+#### selection, sampling bias
+#### information bias: recall; ascertainment, ecologic fallacy, lack of blinding; loss to follow up confounding variables, Hawthorne effect (includes methods to address)
+#### other threats to validity (eg, placebo effect)
+### Internal vs external validity
+#### generalizability (external validity); efficacy vs effectiveness
+### Statistical vs clinical significance; clinical and surrogate outcome/end point
+## Clinical decision making, interpretation and use of evidence-based data and recommendations
+### application of study results to patient care and practice, including patient preferences and individualization of risk profiles; risk/benefit analysis; synthesis of concepts with real data
+## Research ethics
+### Informed consent for research
+### Privacy of patient data (HIPAA)
+### Roles of institutional review boards (IRBs)
+### Interim analysis
+#### intervention analysis; stopping analysis; safety monitoring
+### Regulatory issues
+#### drug development, phases of approval; appropriateness of placebo; appropriateness of randomized clinical trial; components of studies; ethics; scheduling; off-label use
+### Other issues related to research ethics

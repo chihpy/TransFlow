@@ -1,0 +1,23 @@
+# Behavioral Health
+## Psychotic disorders
+### brief psychotic disorder; delusional disorder; psychotic disorder due to another medical condition; schizophrenia; schizoaffective disorder; substance-induced psychotic disorder
+## Anxiety disorders
+### acute stress disorder; anxiety disorders (generalized anxiety disorder, anxiety due to another medical condition, social phobia); hyperventilation syndrome; obsessive-compulsive disorder; panic disorder with and without agoraphobia; phobic disorders; post-traumatic stress disorder; selective mutism; separation anxiety disorder; substance-induced anxiety disorder, trichotillomania
+## Mood disorders
+### major depressive disorder with and without psychotic features, with and without seasonal pattern; major depressive disorder, postpartum, with and without psychotic features, including screening; cyclothymic disorder; persistent depressive disorder; bipolar disorder, manic/depressed/mixed; premenstrual dysphoric disorder; bipolar and related disorder or depressive disorder due to another medical condition; substance/medication-induced bipolar and related disorder or depressive disorder (illegal or prescribed); suicidal ideation/attempt
+## Somatic symptoms and related disorders
+### body dysmorphic disorder; functional neurologic symptom disorder (conversion disorder), including psychogenic seizures; dissociative disorders; illness anxiety disorder (hypochondriasis); malingering; pain disorder; somatic symptom disorder
+## Factitious disorders
+### factitious disorder imposed on self
+## Eating disorders and impulse-control disorders
+### anorexia nervosa; binge-eating disorder; bulimia nervosa; eating disorder; disruptive, impulse-control, and conduct disorders (eg, gambling, kleptomania, pyromania)
+## Disorders originating in infancy/childhood
+### reactive attachment disorder; attention-deficit/hyperactivity disorder; speech sound disorder or language disorder; learning disorder/dyslexia; intellectual developmental disorder and developmental delay, undefined, including school problems, fetal alcohol syndrome; oppositional defiant disorder, conduct disorder; autism spectrum disorder, Rett syndrome; psychoses with origin specific to childhood; elimination disorders (incontinence, encopresis); tic disorders/Tourette disorder
+## Personality disorders
+### antisocial personality disorder; avoidant personality disorder; borderline personality disorder; dependent personality disorder; histrionic personality disorder; narcissistic personality disorder; obsessive- compulsive personality disorder; paranoid personality disorder; schizoid personality disorder
+## Psychosocial disorders/behaviors
+### adjustment disorder; grief response/bereavement, normal and persistent complex; parent-child relational problems other than physical or emotional abuse; other psychosocial stress; psychodynamic and behavioral factors, related past experience (eg, transference, personality traits)
+## Sexual disorders and gender dysphoria
+### gender dysphoria; psychosexual dysfunction
+## Substance use disorders
+### alcohol use disorder/intoxication/dependence/withdrawal; tobacco/nicotine use disorder/dependence/withdrawal; varenicline use; cannabis use disorder/intoxication/dependence; hallucinogen use disorder/intoxication/dependence/withdrawal; inhalant use disorder/intoxication/dependence/withdrawal; opioid, heroin, including prescription drug, use disorder/intoxication/dependence/withdrawal; sedative, hypnotic, including benzodiazepine and barbiturate use disorder/intoxication/dependence/withdrawal; stimulant, cocaine, methamphetamine use disorder/intoxication/dependence/withdrawal; other drugs of use disorders (eg, ecstasy, PCP, bath salts)/intoxication/dependence/withdrawal; polysubstance use disorder/intoxication/dependence/withdrawal

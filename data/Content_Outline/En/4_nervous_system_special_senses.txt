@@ -1,0 +1,69 @@
+# Nervous System & Special Senses
+## Infectious, immunologic, and inflammatory disorders, including microbiologic and host response to insult
+### infectious disorders
+#### meningitis: bacterial (Actinomyces israelii; Haemophilus influenzae; Listeria monocytogenes; Mycobacterium tuberculosis; Neisseria meningitidis; Staphylococcus aureus, epidermidis; Streptococcus agalactiae; Streptococcus pneumoniae); viral (adenovirus, arboviruses, echovirus and coxsackievirus A & B, polioviruses, herpes simplex virus, varicella zoster, human immunodeficiency virus, lymphocytic choriomeningitis virus, measles virus, mumps virus, St. Louis encephalitis virus, California encephalitis virus, Western equine encephalitis virus); fungal (Blastomycosis dermatitidis, Cryptococcus neoformans/gattii); spirochetal (Borrelia burgdorferi; Leptospira; Treponema pallidum, including neurosyphilis); protozoal/helminths (Acanthamoeba, Naegleria fowleri, Strongyloides stercoralis, Angiostrongylus cantonensis, Baylisascaris procyonis); encephalitis (herpesvirus [HSV- I], varicella-zoster virus, Epstein-Barr virus, cytomegalovirus, mumps virus, enterovirus, West Nile virus, St. Louis encephalitis virus, rabies virus, Eastern and Western equine encephalitis virus, poliovirus, Taenia, Toxoplasma gondii); prion disease (eg, Creutzfeldt-Jakob disease); botulism (Clostridium botulinum), tetanus (Clostridium tetani); CNS disorders associated with AIDS (eg, progressive multifocal leukoencephalopathy)
+### immunologic and inflammatory disorders
+#### myasthenia gravis, including thymoma; multiple sclerosis; transverse myelitis
+## Neoplasms (cerebral, spinal, and peripheral)
+### benign (meningioma, neurofibromatosis)
+### malignant (glioblastoma, astrocytoma, medulloblastoma, primary CNS lymphoma)
+### metastatic (eg, breast, lung, pancreatic, testicular, melanoma)
+## Cerebrovascular disease
+### arteriovenous malformations, ectatic cerebral vessels; transient ischemic attack; stroke, thrombotic: cerebral artery occlusion/cerebral infarction; stroke, embolic: cerebral embolism; stroke: intracerebral hemorrhage, including subarachnoid hemorrhage, traumatic intracranial hemorrhage; cerebral artery aneurysm; carotid artery stenosis/atherosclerosis/occlusion/dissection; vertebral artery deficiency/dissection; subclavian steal syndrome; vascular dementia; hypertensive encephalopathy; posterior reversible encephalopathy syndrome; venous sinus thrombosis
+## Disorders relating to the spine, spinal cord, and spinal nerve roots
+### cauda equina syndrome; spinal artery thrombosis/embolus/infarct; spinal cord compression; spinal cord transection, paraplegia and quadriplegia, acute and chronic effects (eg, autonomic dysreflexia); spinal stenosis (cervical, lumbar); syringomyelia
+## Cranial and peripheral nerve disorders
+### cranial nerve injury/disorders
+#### cranial nerve injury; Bell palsy; anisocoria, miosis, mydriasis; internuclear ophthalmoplegia; nystagmus and other irregular eye movements; vestibular neuritis, labyrinthitis; ptosis of the eyelid; Horner syndrome
+### peripheral nerve/plexus injury/disorders
+#### peripheral nerve injury, including brachial plexus; carpal/cubital/tarsal/peroneal tunnel syndrome; mononeuritis, Guillain-Barré syndrome; Miller Fisher syndrome; neuropathy (eg, Charcot-Marie- Tooth disease); herpes zoster
+## Neurologic pain syndromes
+### complex regional pain syndrome (reflex sympathetic dystrophy, causalgia); fibromyalgia; postherpetic neuralgia; phantom limb pain/syndrome; thalamic pain syndrome; trigeminal neuralgia
+## Degenerative disorders/amnestic syndromes
+### Alzheimer disease; frontotemporal dementia, including progressive supranuclear palsy, Lewy body disease; mild neurocognitive disorder, mild cognitive impairment
+## Global cerebral dysfunction
+### altered states of consciousness; delirium; coma/brain death
+## Neuromuscular disorders
+### amyotrophic lateral sclerosis/spinal muscular atrophy; muscular dystrophy (eg, Duchenne, myotonic); muscle channelopathies (eg, hypokalemic period paralysis)
+## Movement disorders
+### acute dystonia; adult tic disease; essential tremor; Huntington disease; Parkinson disease, including Parkinson dementia
+## Metabolic disorders
+### adrenoleukodystrophy; metabolic encephalopathy
+## Paroxysmal disorders
+### headache, including migraine, mixed, tension, ice-pick, cluster, medication withdrawal, caffeine withdrawal; seizure disorders, including generalized tonic-clonic, partial, absence, febrile
+## Sleep disorders
+### cataplexy and narcolepsy; circadian rhythm sleep-wake disorder; insomnia, primary; sleep terror disorder and sleepwalking; REM sleep behavior disorder; restless legs syndrome
+## Traumatic and mechanical disorders and disorders of increased intracranial pressure
+### anoxic brain damage, cerebral hypoxia; epidural, subdural hematoma (cerebral and spinal); intraparenchymal hemorrhage, traumatic subarachnoid hemorrhage; cerebral edema; idiopathic intracranial hypertension; torticollis/cervical dystonia; hydrocephalus, including normal-pressure; traumatic brain injury (concussion)/postconcussion syndrome (dementia pugilistica); traumatic brain syndrome
+## Congenital disorders
+### Friedreich ataxia; neural tube defects (eg, spina bifida, holoprosencephaly, anencephaly); microcephaly; Sturge-Weber syndrome; tuberous sclerosis, von Hippel-Lindau disease; hydrocephalus, obstructive (Arnold-Chiari)
+## Adverse effects of drugs on the nervous system
+### acute dystonic reaction; drug-induced meningitis (eg, NSAIDs, sulfa drugs); drug-induced neuropathy (eg, vincristine, isoniazid, metronidazole); extrapyramidal adverse effects (eg, akathisia, dystonia, drug- induced parkinsonism); neuroleptic malignant syndrome; poisoning by psychotropic agents, including antidepressants; serotonin syndrome; tardive dyskinesia
+## Disorders of the eye and eyelid
+### infectious and inflammatory disorders of the eye, including microbiologic and host response to insult
+#### blepharitis/eyelid inflammation; chalazion; chorioretinitis; conjunctivitis (adenovirus)/keratoconjunctivitis; dacryocystitis; endophthalmitis; hordeolum; iridocyclitis; optic neuritis; periorbital cellulitis; uveitis
+### neoplasms of the eye
+#### melanoma; retinoblastoma
+### disorders of the eye and eyelid, structural
+#### cataract; glaucoma; lacrimal system disorders; pterygium; refractive disorders (presbyopia, myopia, hyperopia, astigmatism)
+### disorders of the pupil, iris, muscles (extraocular)
+#### amblyopia; strabismus
+### disorders of the retina
+#### hypertensive retinopathy; macular degeneration; papilledema; retinal detachment; retinitis pigmentosa; vascular disorders affecting the retina, including central retinal artery embolus, retinal hemorrhage, amaurosis fugax, embolus, carotid artery stenosis, central retinal vein occlusion; visual impairment/blindness, night blindness
+### traumatic and mechanical disorders
+#### black eye; burn of the eye and adnexa; corneal abrasion, ulcer; dislocated lens; foreign body in eye; hyphema; injury to optic nerve and pathways; laceration of the eye and eyelid; ocular open wounds; orbital fracture; subconjunctival hemorrhage
+### adverse effects of drugs on the eyes
+#### ethambutol; hydroxychloroquine; prednisone
+## Disorders of the ear
+### infectious and inflammatory disorders of the ear, including microbiologic and host response to insult
+#### chondritis; mastoiditis; otitis, externa, media, interna, serous, suppurative, malignant otitis externa
+### neoplasms
+#### acoustic neuroma, neurofibromatosis type 2; cholesteatoma
+### hearing loss/deafness
+#### hearing loss, including noise-induced; otosclerosis; tinnitus
+### disorders of balance and spatial orientation
+#### Ménière disease; motion sickness; vertigo, including benign positional vertigo
+### traumatic and mechanical disorders
+#### barotrauma; foreign body in ear; impacted cerumen; laceration, avulsion; perforation of tympanic membrane; eustachian tube disorders
+### adverse effects of drugs on the ear
+#### antineoplastic agents, including cisplatin; aminoglycosides; furosemide; salicylates
