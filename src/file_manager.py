@@ -2,6 +2,7 @@
 """
 import os
 import json
+import hashlib
 
 def json_load(file_path):
     with open(file_path, 'r') as f:
@@ -25,6 +26,9 @@ class FileManager:
         os.makedirs(self.cache_dir, exist_ok=True)
         self.output_dir = os.path.join(output_base_dir, task_name)
         os.makedirs(self.output_dir, exist_ok=True)
+
+    def query2id(self, query: str) -> str:
+        return hashlib.sha256(query.encode("utf-8")).hexdigest()[:12]
     
     def cache_hit(self, _id):
         id_names = os.listdir(self.cache_dir)
